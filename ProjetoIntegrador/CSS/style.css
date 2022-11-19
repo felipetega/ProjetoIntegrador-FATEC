@@ -6,6 +6,7 @@ body{
     background: #2e2e2e;
     color: #f68e07;
 }
+
 .navbar{
   margin: 10px 0 0 10px;
 }
@@ -122,8 +123,6 @@ body{
     position: absolute;
     pointer-events: none;
     top: 0;
-    transform: translateY(70px);
-    transition: all 0.8s ease-in-out;
     left: 0;
   }
   
@@ -382,9 +381,11 @@ body {
   justify-content: center;
   text-align: center;
 }
+
 #cpf, #cnpj{
   display: none;
 }
+
 div label{
   color: white;
 }

@@ -5,19 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Rango Top (CPF)</title>
-    <link rel="stylesheet" href="style2.css" />
+
+    <link rel="stylesheet" href="CSS/style.css" />
   </head>
   <header>
-    <a href="1-login.html"><img src="/img/logo-sem-fundo.png" alt="" style="height: 100px;"></a>
-</header>
+    <a href="1-login.html"
+      ><img src="/img/logo-sem-fundo.png" alt="" style="height: 100px"
+    /></a>
+  </header>
   <body>
-    <div class="container">
-      <div class="form">
-        <h3 class="title">Criar Conta</h3>
-        <form>
+    <div class="container1">
+      <div class="form1">
+        <h1 class="title1">Criar Conta</h1>
+        <form action="#" id="form">
           <div>
             <label>CPF</label>
             <input
+              required
               type="radio"
               onclick="cpf()"
               requer
@@ -29,6 +33,7 @@
           <div>
             <label>CNPJ</label>
             <input
+              required
               onclick="cnpj()"
               type="radio"
               requer
@@ -37,33 +42,42 @@
               value="CNPJ"
             />
           </div>
-          <div id="cpf" class="form-group">
-            <input type="number" required ><label>CPF</label>
+          <div class="form-group1">
+            <input type="text" required /><label>Nome Completo</label>
           </div>
-          <div id="cnpj" class="form-group">
-            <input type="number" required ><label>CNPJ</label>
+          <div class="form-group1">
+            <input type="password" required id="senha" /><label>Senha</label>
           </div>
-          <div class="form-group">
-            <input type="text" required ><label>Nome Completo</label>
+          <div class="form-group1">
+            <input type="text" required /><label>Email</label>
           </div>
-          <div class="form-group">
-            <input type="password" required id="senha" ><label>Senha</label>
+          <div class="form-group1">
+            <input
+              required
+              type="text"
+              onkeypress="$(this).mask('(00) 0000-00009')"
+            /><label>Telefone</label>
           </div>
-          <div class="form-group">
-            <input type="text" required ><label>Email</label>
+          <div id="cpf" class="form-group1">
+            <input
+              type="text"
+              onkeypress="$(this).mask('000.000.000-00');"
+            /><label>CPF</label>
           </div>
-          <div class="form-group">
-            <input type="number" required ><label>Telefone</label>
+          <div id="cnpj" class="form-group1">
+            <input
+              type="text"
+              onkeypress="$(this).mask('00.000.000/0000-00')"
+            /><label>CNPJ</label>
           </div>
-          <input
-            type="button"
-            value="Entrar"
-            class="submit"
-            onclick="validar()"
-          />
+          <a href="TelaInicial.html">
+            <button class="submit1" type="submit">Confirmar</button>
+          </a>
         </form>
       </div>
     </div>
     <script src="JS/cliente.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
   </body>
 </html>
