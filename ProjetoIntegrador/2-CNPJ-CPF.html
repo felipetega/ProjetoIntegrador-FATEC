@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rango Top (CPF)</title>
+    <link rel="stylesheet" href="style2.css" />
+  </head>
+  <header>
+    <a href="1-login.html"><img src="/img/logo-sem-fundo.png" alt="" style="height: 100px;"></a>
+</header>
+  <body>
+    <div class="container">
+      <div class="form">
+        <h3 class="title">Criar Conta</h3>
+        <form>
+          <div>
+            <label>CPF</label>
+            <input
+              type="radio"
+              onclick="cpf()"
+              requer
+              id="pf"
+              name="documento"
+              value="CPF"
+            />
+          </div>
+          <div>
+            <label>CNPJ</label>
+            <input
+              onclick="cnpj()"
+              type="radio"
+              requer
+              id="pj"
+              name="documento"
+              value="CNPJ"
+            />
+          </div>
+          <div id="cpf" class="form-group">
+            <input type="number" required ><label>CPF</label>
+          </div>
+          <div id="cnpj" class="form-group">
+            <input type="number" required ><label>CNPJ</label>
+          </div>
+          <div class="form-group">
+            <input type="text" required ><label>Nome Completo</label>
+          </div>
+          <div class="form-group">
+            <input type="password" required id="senha" ><label>Senha</label>
+          </div>
+          <div class="form-group">
+            <input type="text" required ><label>Email</label>
+          </div>
+          <div class="form-group">
+            <input type="number" required ><label>Telefone</label>
+          </div>
+          <input
+            type="button"
+            value="Entrar"
+            class="submit"
+            onclick="validar()"
+          />
+        </form>
+      </div>
+    </div>
+    <script src="JS/cliente.js"></script>
+  </body>
+</html>

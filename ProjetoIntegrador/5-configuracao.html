@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configuração de conta</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">    
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<header>
+    <a href="1-login.html"><img src="/img/logo-sem-fundo.png" alt="Logo da empresa RangoTop" style="height: 200px;"></a>
+</header>
+<body>
+    <h1 class=" d-flex align-self-center justify-content-center">Configuração da conta</h1>
+        <div class="div-foto-perfil  d-flex align-self-center justify-content-center">
+            <img src="/img/profile-icon.webp" id="foto" alt="Foto de perfil do usuario">
+            <input type="file" name="arquivo" id="arquivo">
+            <label for="arquivo" id="botao-upload">Escolha uma foto</label>
+        </div> 
+        <main class="alinhamento">  
+            <form action="#" id="form">
+                <div class="mb-3">
+                        <input type="number" name="cep" id="cep" min="8" max="8" class="form-control"><label for="cep">CEP</label>
+                        <input name="bairro" type="text" id="bairro" size="20" class="form-control"> <label for="bairro">Bairro</label>
+                        <input name="rua" type="text"  id="Rua" size="20" class="form-control"><label for="Rua">Rua</label>
+                        <input type="number" name="numeroCasa" id="numerocasa"  class="form-control" style="margin-bottom: 15px;"><label for="numerocasa">Nº</label>
+                            <select name="estado" id="estado" >
+                                <option value="Estado" selected>Estado</option>
+                                <!--<option value="AC">Acre</option>
+                                <option value="Al">Alagoas</option>
+                                <option value="AP">Amapá</option>
+                                <option value="AM">Amazonas</option>
+                                <option value="BH">Bahia</option>
+                                <option value="CE">Ceará</option>
+                                <option value="DF">Distrito Federal</option>
+                                <option value="ES">Espírito Santo</option>
+                                <option value="GO">Goiás</option>
+                                <option value="MA">Maranhão</option>
+                                <option value="MT">Mato Grosso</option>
+                                <option value="MS">Mato Grosso do Sul</option>
+                                <option value="MG">Minas Gerais</option>
+                                <option value="PA">Pará</option>
+                                <option value="PB">Paraíba</option>
+                                <option value="PR">Paraná</option>
+                                <option value="PE">Pernambuco</option>
+                                <option value="PI">Piauí</option>
+                                <option value="RJ">Rio de Janeiro</option>
+                                <option value="RN">Rio Grande do Norte</option>
+                                <option value="RS">Rio Grande do Sul</option>
+                                <option value="RO">Rondônia</option>
+                                <option value="RR">Roraima</option>
+                                <option value="SC">Santa Catarina</option>-->
+                                <option value="SP">São Paulo</option>
+                                <!--<option value="SE">Sergipe</option>
+                                <option value="TO">Tocantins</option>-->
+                            </select> 
+                            <select name="Cidade" id="Cidade">
+                                <option value="Selecione" selected>Cidade</option>
+                                <option value="Araraquara">Araraquara</option>
+                                <option value="Campinas">Campians</option>
+                                <option value="Matão">Matão</option>
+                                <option value="Ribeirão Preto">Ribeirão Preto</option>
+                                <option value="São Carlos">São Carlos</option>
+                            </select> 
+                </div>
+                <div id="campo-cartão">
+                            <div class="mb-3">
+                                <input type="text" name="nomeCartao" id="nomecartao" placeholder="EX: Douglas Tiosso" class="form-control"> <label for="nomecartão">Nome do Cartão</label>
+                                <input type="number" name="numeroCartao" id="numerocartao" placeholder="XXXX-XXXX-XXXX-XXXX" class="form-control"> <label for="numerocartao">Nº do Cartão</label>
+                                <input type="password" name="numeroSeguranca" id="numeroseguranca" placeholder="XXX" class="form-control "> <label for="numerosegurança">Nº de Segurança:</label>
+                                <label for="nomecartao"> Data de expiração:</label> <br>
+                                <select name='mesexpiração' id='mesexpiração' style="margin-right:35px;">
+                                    <option value='01'>Janeiro</option>
+                                    <option value='02'>Fevereiro</option>
+                                    <option value='03'>Março</option>
+                                    <option value='04'>Abril</option>
+                                    <option value='05'>Maio</option>
+                                    <option value='06'>Junho</option>
+                                    <option value='07'>Julho</option>
+                                    <option value='08'>Agosto</option>
+                                    <option value='09'>Setembro</option>
+                                    <option value='10'>Outubro</option>
+                                    <option value='11'>Novembro</option>
+                                    <option value='12'>Dezembro</option>
+                                </select> 
+                                    <select name='anoexpiração' id='anoexpiração'>
+                                        <option value='20'>2020</option>
+                                        <option value='21'>2021</option>
+                                        <option value='22'>2022</option>
+                                        <option value='23'>2023</option>
+                                        <option value='24'>2024</option>
+                                    </select> 
+                                </div>
+                </div>
+                <div class="button">
+                    <button type="submit" class="submit1">Salvar</button>
+                    <a href="4-cadastroprod.html"><button type="submit" class="submit1">Configuração da loja</button></a>
+                    <button type="reset" class="submit1">Limpar</button>
+                </div>
+            </form>
+        </main>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script>
+    const imgDiv = document.querySelector('.div-foto-perfil');
+    const img = document.querySelector('#foto');
+    const file = document.querySelector('#arquivo');
+    const uploadBtn = document.querySelector('#botao-upload');
+    
+    imgDiv.addEventListener('mouseenter', function(){
+        uploadBtn.style.display = "block";
+    });
+    
+    imgDiv.addEventListener('mouseleave', function(){
+        uploadBtn.style.display = "none";
+    });
+    
+    file.addEventListener('change', function(){
+        const choosedFile = this.files[0];
+        if (choosedFile) {
+            const reader = new FileReader(); 
+            reader.addEventListener('load', function(){
+                img.setAttribute('src', reader.result);
+            });
+            reader.readAsDataURL(choosedFile);
+        }
+    });
+    </script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.js"></script>
+      <script src="/JS/register.js"></script>
+</body>
+</html>
