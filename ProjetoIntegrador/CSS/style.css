@@ -131,13 +131,13 @@ body{
     border-bottom-color: #e2e2e2;
     outline: none;
   }
-  
+  /* tava bugando o cpf/cnpj
   .form-group1 input:valid + label,
   .form-group1 input:focus + label {
     color: #e2e2e2;
     font-size: 14px;
     transform: translateY(0);
-  }
+  }*/
   
   .submit1 {
     background: #2e2e2e;
@@ -382,10 +382,11 @@ body {
   text-align: center;
 }
 
-#cpf, #cnpj{
+#cpf, #cnpj, #endereco{
   display: none;
 }
 
-div label{
-  color: white;
+#sucesso{
+  display: none;
+  color: chartreuse;
 }

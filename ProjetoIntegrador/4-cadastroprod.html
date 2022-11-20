@@ -19,7 +19,7 @@
     >
       <a class="navbar-brand" href="1-login.html"
         ><img
-          src="/img/logo-sem-fundo.png"
+          src="img/logo-sem-fundo.png"
           alt="Logo da empresa RangoTop"
           id="logo-tela-cpf"
           style="max-height: 200px"
@@ -46,101 +46,136 @@
       <div class="container1">
         <form action="#" id="form">
           <div id="usuarioCNPJ">
+            <div id="tipoAtendimento">
+              <h2>Tipo de Atendimento</h2>
+              <div>
+                <label>Entrega</label>
+                <input
+                  required
+                  type="radio"
+                  onclick="mostraEndereco()"
+                  requer
+                  id="pf"
+                  name="documento"
+                  value="CPF"
+                />
+              </div>
+              <div>
+                <label>Retirada</label>
+                <input
+                  required
+                  onclick="escondeEndereco()"
+                  type="radio"
+                  requer
+                  id="pj"
+                  name="documento"
+                  value="CNPJ"
+                />
+              </div>
+              <div>
+                <label>Consumo Local</label>
+                <input
+                  required
+                  type="radio"
+                  onclick="escondeEndereco()"
+                  requer
+                  id="pf"
+                  name="documento"
+                  value="CPF"
+                />
+              </div>
+            </div>
             <div id="endereco">
               <h2>Endereço</h2>
-              <label for="Rua">Rua</label>
-              <input type="text" id="Rua" name="rua" />
-              <label for="Estado">Estado</label>
-              <select name="estados" id="Estado">
-                <option value="Estado">Estado</option>
-                <option value="AC">AC</option>
-                <option value="AL">AL</option>
-                <option value="AP">AP</option>
-                <option value="AM">AM</option>
-                <option value="BA">BA</option>
-                <option value="CE">CE</option>
-                <option value="ES">ES</option>
-                <option value="GO">GO</option>
-                <option value="MA">MA</option>
-                <option value="MT">MT</option>
-                <option value="MS">MS</option>
-                <option value="MG">MG</option>
-                <option value="PA">PA</option>
-                <option value="PB">PB</option>
-                <option value="PR">PR</option>
-                <option value="PE">PE</option>
-                <option value="PI">PI</option>
-                <option value="RJ">RJ</option>
-                <option value="RN">RN</option>
-                <option value="RS">RS</option>
-                <option value="RO">RO</option>
-                <option value="RR">RR</option>
-                <option value="SC">SC</option>
-                <option value="SP">SP</option>
-                <option value="SE">SE</option>
-                <option value="TO">TO</option>
-              </select>
-              <label for="Cidade">Cidade</label>
-              <input type="text" id="Cidade" name="cidade" />
-              <label for="N°">N°</label>
-              <input type="number" id="N°" name="numeroCasa" />
-              <label for="cep">CEP</label>
-              <input type="number" id="cep" name="cep" />
+              <div class="form-group1">
+                <input type="text" required /><label>Rua</label>
+              </div>
+              <div class="form-group1">
+                <label>Estado</label>
+                <select required name="estados" id="Estado">
+                  <option value="SP">SP</option>
+                </select>
+              </div>
+              <div class="form-group1">
+                <input type="text" required /><label>Cidade</label>
+              </div>
+              <div class="form-group1">
+                <input type="text" required /><label
+                  >Número</label
+                >
+              </div>
+              <div class="form-group1">
+                <input
+                  type="text"
+                  class="form-control"
+                  onkeypress="$(this).mask('00.000-000')"
+                  required
+                  minlength="10"
+                />
+                <label>CEP</label>
+              </div>
             </div>
-
-            <div id="tipoDeAtendimento">
-              <h2>Tipo de Atendimento</h2>
-              <label for="Retirada">Retirada</label>
-              <input
-                type="radio"
-                name="Retirada"
-                id="Retirada"
-                name="entrega"
-              />
-              <label for="Delivery">Delivery</label>
-              <input
-                type="radio"
-                name="Delivery"
-                id="Delivery"
-                name="entrega"
-              />
-              <label for="Consumo-no-local">Consumo no local</label>
-              <input
-                type="radio"
-                name="Consumo-no-local"
-                id="Consumo-no-local"
-                name="entrega"
-              />
+            <div id="formasPagamento">
+              <h2>Formas de Pagamento</h2>
+              <div>
+                <label>Dinheiro</label>
+                <input
+                  required
+                  type="radio"
+                  onclick="cpf()"
+                  requer
+                  id="pf"
+                  name="documento"
+                  value="CPF"
+                />
+              </div>
+              <div>
+                <label>Cartão</label>
+                <input
+                  required
+                  onclick="cnpj()"
+                  type="radio"
+                  requer
+                  id="pj"
+                  name="documento"
+                  value="CNPJ"
+                />
+              </div>
+              <div>
+                <label>PIX</label>
+                <input
+                  required
+                  type="radio"
+                  onclick="cpf()"
+                  requer
+                  id="pf"
+                  name="documento"
+                  value="CPF"
+                />
+              </div>
             </div>
-          </div>
-
-          <div id="caracteristicasProduto">
-            <h2>Caracteristicas de Produto</h2>
-
-            <p>Nome:</p>
-            <input type="text" />
-            <p>Ingredientes:</p>
-            <textarea
-              name="Ingredientes"
-              id="Ingredientes"
-              cols="30"
-              rows="5"
-            ></textarea>
-            <h2>Formas de Pagamento</h2>
-            <div>
-              <label for="Cartao">Cartão</label>
-              <input type="radio" name="Cartao" id="Cartao" />
-              <label for="Pix">Pix</label>
-              <input type="radio" name="Pix" id="Pix" />
-              <label for="cupom">Cupom</label>
-              <input type="radio" name="cupom" id="cupom" />
+              <div id="caracteristicasProduto">
+                <h2>Carrinho</h2>
+                <img height="30px" src="img/x-tudo-duplo.jpg" alt="">
+                <p>X-tudo</p>
+                <img height="30px" src="img/hotdog.jpg" alt="">
+                <p>hotdog</p>
+                <p>Observações:</p>
+                <textarea
+                  name="Ingredientes"
+                  id="Ingredientes"
+                  cols="30"
+                  rows="2"
+                ></textarea>
+              </div>
+            <button class="submit1" type="submit">Enviar</button>
             </div>
           </div>
         </form>
       </div>
     </main>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.js"></script>
-    <script src="/JS/register.js"></script>
+    <script src="JS/cliente.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
   </body>
 </html>

@@ -9,68 +9,94 @@
     <link rel="stylesheet" href="CSS/style.css">
 </head>
 <header>
-    <a href="1-login.html"><img src="/img/logo-sem-fundo.png" alt="Logo da empresa RangoTop" style="height: 200px;"></a>
+    <a href="1-login.html"><img src="img/logo-sem-fundo.png" alt="Logo da empresa RangoTop" style="height: 200px;"></a>
 </header>
 <body>
     <h1 class=" d-flex align-self-center justify-content-center">Configuração da conta</h1>
         <div class="div-foto-perfil  d-flex align-self-center justify-content-center">
-            <img src="/img/profile-icon.webp" id="foto" alt="Foto de perfil do usuario">
+            <img src="img/profile-icon.webp" id="foto" alt="Foto de perfil do usuario">
             <input type="file" name="arquivo" id="arquivo">
             <label for="arquivo" id="botao-upload">Escolha uma foto</label>
         </div> 
         <main class="alinhamento">  
-            <form action="#" id="form">
+            <form method="post" onsubmit="sucesso(); return false;">
                 <div class="mb-3">
-                        <input type="number" name="cep" id="cep" min="8" max="8" class="form-control"><label for="cep">CEP</label>
-                        <input name="bairro" type="text" id="bairro" size="20" class="form-control"> <label for="bairro">Bairro</label>
-                        <input name="rua" type="text"  id="Rua" size="20" class="form-control"><label for="Rua">Rua</label>
-                        <input type="number" name="numeroCasa" id="numerocasa"  class="form-control" style="margin-bottom: 15px;"><label for="numerocasa">Nº</label>
+                    <label for="">CEP</label>
+                        <input
+                          type="text"
+                          class="form-control"
+                          onkeypress="$(this).mask('00.000-000')"
+                          required
+                          minlength="10"
+                        />
+                        <label>Estado</label>
+                        <input
+                        type="text"
+                        class="form-control"
+                        required
+                        />
+                        <label>Cidade</label>
+                        <input
+                        type="text"
+                        class="form-control"
+                        required
+                        />
+                        <label>Bairro</label>
+                            <input
+                            type="text"
+                            class="form-control"
+                            required
+                        />
+                        <label>Rua</label>
+                        <input
+                        type="text"
+                        class="form-control"
+                        required
+                        />
+                        <label>Número</label>
+                        <input
+                        type="number"
+                        class="form-control"
+                        required
+                        />
+                    </div>
                             <select name="estado" id="estado" >
-                                <option value="Estado" selected>Estado</option>
-                                <!--<option value="AC">Acre</option>
-                                <option value="Al">Alagoas</option>
-                                <option value="AP">Amapá</option>
-                                <option value="AM">Amazonas</option>
-                                <option value="BH">Bahia</option>
-                                <option value="CE">Ceará</option>
-                                <option value="DF">Distrito Federal</option>
-                                <option value="ES">Espírito Santo</option>
-                                <option value="GO">Goiás</option>
-                                <option value="MA">Maranhão</option>
-                                <option value="MT">Mato Grosso</option>
-                                <option value="MS">Mato Grosso do Sul</option>
-                                <option value="MG">Minas Gerais</option>
-                                <option value="PA">Pará</option>
-                                <option value="PB">Paraíba</option>
-                                <option value="PR">Paraná</option>
-                                <option value="PE">Pernambuco</option>
-                                <option value="PI">Piauí</option>
-                                <option value="RJ">Rio de Janeiro</option>
-                                <option value="RN">Rio Grande do Norte</option>
-                                <option value="RS">Rio Grande do Sul</option>
-                                <option value="RO">Rondônia</option>
-                                <option value="RR">Roraima</option>
-                                <option value="SC">Santa Catarina</option>-->
                                 <option value="SP">São Paulo</option>
-                                <!--<option value="SE">Sergipe</option>
-                                <option value="TO">Tocantins</option>-->
                             </select> 
-                            <select name="Cidade" id="Cidade">
-                                <option value="Selecione" selected>Cidade</option>
+                            <select required name="Cidade" id="Cidade">
+                                <option value="Matão">Matão</option>
                                 <option value="Araraquara">Araraquara</option>
                                 <option value="Campinas">Campians</option>
-                                <option value="Matão">Matão</option>
                                 <option value="Ribeirão Preto">Ribeirão Preto</option>
                                 <option value="São Carlos">São Carlos</option>
                             </select> 
                 </div>
                 <div id="campo-cartão">
                             <div class="mb-3">
-                                <input type="text" name="nomeCartao" id="nomecartao" placeholder="EX: Douglas Tiosso" class="form-control"> <label for="nomecartão">Nome do Cartão</label>
-                                <input type="number" name="numeroCartao" id="numerocartao" placeholder="XXXX-XXXX-XXXX-XXXX" class="form-control"> <label for="numerocartao">Nº do Cartão</label>
-                                <input type="password" name="numeroSeguranca" id="numeroseguranca" placeholder="XXX" class="form-control "> <label for="numerosegurança">Nº de Segurança:</label>
-                                <label for="nomecartao"> Data de expiração:</label> <br>
-                                <select name='mesexpiração' id='mesexpiração' style="margin-right:35px;">
+                                <label>Nome Cartão</label>
+                                <input placeholder="Ex: Douglas Tiosso"
+                                type="text"
+                                class="form-control"
+                                required
+                                />
+                                <label>Número Cartão</label>
+                                <input
+                                type="text"
+                                class="form-control"
+                                onkeypress="$(this).mask('0000-0000-0000-0000')"
+                                required
+                                minlength="19"
+                              />
+                                <label>Número Segurança</label>
+                                <input
+                                type="text"
+                                class="form-control"
+                                onkeypress="$(this).mask('000')"
+                                required
+                                minlength="3"
+                              />
+                                <label> Data de expiração:</label>
+                                <select required>
                                     <option value='01'>Janeiro</option>
                                     <option value='02'>Fevereiro</option>
                                     <option value='03'>Março</option>
@@ -84,7 +110,7 @@
                                     <option value='11'>Novembro</option>
                                     <option value='12'>Dezembro</option>
                                 </select> 
-                                    <select name='anoexpiração' id='anoexpiração'>
+                                    <select required name='anoexpiração' id='anoexpiração'>
                                         <option value='20'>2020</option>
                                         <option value='21'>2021</option>
                                         <option value='22'>2022</option>
@@ -98,6 +124,7 @@
                     <a href="4-cadastroprod.html"><button type="submit" class="submit1">Configuração da loja</button></a>
                     <button type="reset" class="submit1">Limpar</button>
                 </div>
+                <p id="sucesso">Configurado com sucesso</p>
             </form>
         </main>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -128,8 +155,8 @@
         }
     });
     </script>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.js"></script>
-      <script src="/JS/register.js"></script>
+    <script src="JS/cliente.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
 </body>
 </html>
