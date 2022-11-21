@@ -4,10 +4,10 @@ function cpf() {
   cpf.style.display = 'block'
   cnpj.style.display = 'none'
 
-  var inputCPF = document.getElementById("inputCPF")
-  var inputCNPJ = document.getElementById("inputCNPJ")
-  inputCPF.required=true
-  inputCNPJ.required=false
+  var inputCPF = document.getElementById('inputCPF')
+  var inputCNPJ = document.getElementById('inputCNPJ')
+  inputCPF.required = true
+  inputCNPJ.required = false
 }
 
 function cnpj() {
@@ -16,10 +16,10 @@ function cnpj() {
   cpf.style.display = 'none'
   cnpj.style.display = 'block'
 
-  var inputCPF = document.getElementById("inputCPF")
-  var inputCNPJ = document.getElementById("inputCNPJ")
-  inputCPF.required=false
-  inputCNPJ.required=true
+  var inputCPF = document.getElementById('inputCPF')
+  var inputCNPJ = document.getElementById('inputCNPJ')
+  inputCPF.required = false
+  inputCNPJ.required = true
 }
 
 function mostraEndereco() {
