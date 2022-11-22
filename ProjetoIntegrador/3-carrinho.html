@@ -107,17 +107,19 @@
           <input
             required
             type="radio"
-            onclick="mostraEndereco()"
+            onclick="endereco()"
             name="tipoAtendimento"
+            value="entrega"
           />
         </div>
         <div>
           <label>Retirada</label>
           <input
             required
-            onclick="escondeEndereco()"
+            onclick="endereco()"
             type="radio"
             name="tipoAtendimento"
+            value="retirada"
           />
         </div>
         <div>
@@ -125,8 +127,9 @@
           <input
             required
             type="radio"
-            onclick="escondeEndereco()"
+            onclick="endereco()"
             name="tipoAtendimento"
+            value="local"
           />
         </div>
         <div id="endereco">
@@ -163,25 +166,30 @@
           <label>Dinheiro</label>
           <input
             required
+            onclick="formaDePagamento()"
             type="radio"
             name="formaPagamento"
+            value="dinheiro"
           />
         </div>
         <div>
           <label>Cartão de Crédito</label>
           <input
             required
-            onclick="mostraCartao()"
+            onclick="formaDePagamento()"
             type="radio"
             name="formaPagamento"
+            value="cartao"
           />
         </div>
         <div>
           <label>PIX</label>
           <input
             required
+            onclick="formaDePagamento()"
             type="radio"
             name="formaPagamento"
+            value="pix"
           />
         </div>
         <div id="endereco">
