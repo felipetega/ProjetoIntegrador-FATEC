@@ -456,3 +456,7 @@ body {
   width: 15%;
   height: 65px;
 }
+
+#campoCartao{
+  display: none;
+}

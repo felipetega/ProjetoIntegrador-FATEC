@@ -8,56 +8,99 @@
     <link rel="stylesheet" href="CSS/style.css" />
   </head>
   <body>
-    <form>
+    <form method="post" onsubmit="sucesso(); return false;">
       <div id="carrinho" class="container2">
-      <h1>Carrinho</h1>
-      <div class="produto">
-        <div class="nomeProduto">HotDog</div>
-        <div class="imgProduto">
-          <img src="img/hotdog.jpg" alt="" />
+        <h1>Carrinho</h1>
+        <div class="produto">
+          <div class="nomeProduto">HotDog</div>
+          <div class="imgProduto">
+            <img src="img/hotdog.jpg" alt="" />
+          </div>
+          <div class="descricaoProduto">
+            Pão, 2 Salsichas, Purê, Batata palha, ketchup, mostarda, maionese
+          </div>
+          <div class="minus">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="30"
+              height="80"
+              fill="currentColor"
+              class="bi bi-dash-circle"
+              viewBox="0 0 16 16"
+            >
+              <path
+                d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"
+              />
+              <path
+                d="M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z"
+              />
+            </svg>
+          </div>
+          <div class="plus">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="30"
+              height="80"
+              fill="currentColor"
+              class="bi bi-plus-circle"
+              viewBox="0 0 16 16"
+            >
+              <path
+                d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"
+              />
+              <path
+                d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"
+              />
+            </svg>
+          </div>
+          <div class="qtdProduto">Quantidade: 0</div>
         </div>
-        <div class="descricaoProduto">
-          Pão, 2 Salsichas, Purê, Batata palha, ketchup, mostarda, maionese
+        <div class="produto">
+          <div class="nomeProduto">X-Tudo</div>
+          <div class="imgProduto">
+            <img src="img/x-tudo-duplo.jpg" alt="" />
+          </div>
+          <div class="descricaoProduto">
+            Pão, carne 200g, queijo mussarela, alface, tomate, maionese caseira
+          </div>
+          <div class="minus">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="30"
+              height="80"
+              fill="currentColor"
+              class="bi bi-dash-circle"
+              viewBox="0 0 16 16"
+            >
+              <path
+                d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"
+              />
+              <path
+                d="M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z"
+              />
+            </svg>
+          </div>
+          <div class="plus">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="30"
+              height="80"
+              fill="currentColor"
+              class="bi bi-plus-circle"
+              viewBox="0 0 16 16"
+            >
+              <path
+                d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"
+              />
+              <path
+                d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"
+              />
+            </svg>
+          </div>
+          <div class="qtdProduto">Quantidade: 0</div>
         </div>
-        <div class="minus">
-          <svg xmlns="http://www.w3.org/2000/svg" width="30" height="80" fill="currentColor" class="bi bi-dash-circle" viewBox="0 0 16 16">
-            <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-            <path d="M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z"/>
-          </svg>
-        </div>
-        <div class="plus">
-        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="80" fill="currentColor" class="bi bi-plus-circle" viewBox="0 0 16 16">
-          <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-          <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/>
-        </svg>
       </div>
-      <div class="qtdProduto">Quantidade: 0</div>
-      </div>
-      <div class="produto">
-        <div class="nomeProduto">X-Tudo</div>
-        <div class="imgProduto">
-          <img src="img/x-tudo-duplo.jpg" alt="" />
-        </div>
-        <div class="descricaoProduto">
-          Pão, carne 200g, queijo mussarela, alface, tomate, maionese caseira
-        </div>
-        <div class="minus">
-          <svg xmlns="http://www.w3.org/2000/svg" width="30" height="80" fill="currentColor" class="bi bi-dash-circle" viewBox="0 0 16 16">
-            <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-            <path d="M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z"/>
-          </svg>
-        </div>
-        <div class="plus">
-        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="80" fill="currentColor" class="bi bi-plus-circle" viewBox="0 0 16 16">
-          <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-          <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/>
-        </svg>
-      </div>
-      <div class="qtdProduto">Quantidade: 0</div>
-      </div>
-
-    </div>
-    <div id="tipoAtendimento" class="container2">
+      <div id="tipoAtendimento" class="container2">
         <h2>Tipo de Atendimento</h2>
         <div>
           <label>Entrega</label>
@@ -65,10 +108,7 @@
             required
             type="radio"
             onclick="mostraEndereco()"
-            requer
-            id="pf"
-            name="documento"
-            value="CPF"
+            name="tipoAtendimento"
           />
         </div>
         <div>
@@ -77,10 +117,7 @@
             required
             onclick="escondeEndereco()"
             type="radio"
-            requer
-            id="pj"
-            name="documento"
-            value="CNPJ"
+            name="tipoAtendimento"
           />
         </div>
         <div>
@@ -89,67 +126,54 @@
             required
             type="radio"
             onclick="escondeEndereco()"
-            requer
-            id="pf"
-            name="documento"
-            value="CPF"
+            name="tipoAtendimento"
           />
         </div>
         <div id="endereco">
           <h2>Endereço</h2>
           <div class="form-group1">
-            <input type="text" required /><label>Rua</label>
+            <input type="text"  minlength="1" id="rua" /><label>Rua</label>
           </div>
           <div class="form-group1">
             <label>Estado</label>
-            <select required name="estados" id="Estado">
+            <select  minlength="1" name="estados" id="estado">
               <option value="SP">SP</option>
             </select>
           </div>
           <div class="form-group1">
-            <input type="text" required /><label>Cidade</label>
+            <input type="text"  minlength="1" id="cidade" /><label>Cidade</label>
           </div>
           <div class="form-group1">
-            <input type="text" required /><label
-              >Número</label
-            >
+            <input type="text"  minlength="1" id="numero" /><label>Número</label>
           </div>
           <div class="form-group1">
             <input
               type="text"
               class="form-control"
               onkeypress="$(this).mask('00.000-000')"
-              required
               minlength="10"
             />
             <label>CEP</label>
           </div>
         </div>
-    </div>
-    <div id="formasPagamento" class="container2">
-        <h2>Formas de Pagamento</h2>
+      </div>
+      <div id="formaPagamento" class="container2">
+        <h2>Forma de Pagamento</h2>
         <div>
           <label>Dinheiro</label>
           <input
             required
             type="radio"
-            onclick="cpf()"
-            requer
-            id="pf"
-            name="documento"
-            value="CPF"
+            name="formaPagamento"
           />
         </div>
         <div>
-          <label>Cartão</label>
+          <label>Cartão de Crédito</label>
           <input
             required
-            onclick="cnpj()"
+            onclick="mostraCartao()"
             type="radio"
-            requer
-            id="pj"
-            name="documento"
-            value="CNPJ"
+            name="formaPagamento"
           />
         </div>
         <div>
@@ -157,14 +181,87 @@
           <input
             required
             type="radio"
-            onclick="cpf()"
-            requer
-            id="pf"
-            name="documento"
-            value="CPF"
+            name="formaPagamento"
           />
         </div>
-        <button class="submit1" type="button">Confirma</button>
+        <div id="endereco">
+          <h2>Endereço</h2>
+          <div class="form-group1">
+            <input type="text" minlength="1" /><label>Rua</label>
+          </div>
+          <div class="form-group1">
+            <label>Estado</label>
+            <select  minlength="1" name="estados" id="Estado">
+              <option value="SP">SP</option>
+            </select>
+          </div>
+          <div class="form-group1">
+            <input type="text"  minlength="1" /><label>Cidade</label>
+          </div>
+          <div class="form-group1">
+            <input type="text"  minlength="1" /><label>Número</label>
+          </div>
+          <div class="form-group1">
+            <input
+              type="text"
+              class="form-control"
+              onkeypress="$(this).mask('00.000-000')"
+              minlength="10"
+            />
+            <label>CEP</label>
+          </div>
+        </div>
+        <div id="campoCartao">
+          <div class="mb-3">
+              <label>Nome Cartão</label>
+              <input placeholder="Ex: Douglas Tiosso"
+              type="text"
+              class="form-control"
+              minlength="1"
+              />
+              <label>Número Cartão</label>
+              <input
+              type="text"
+              class="form-control"
+              onkeypress="$(this).mask('0000-0000-0000-0000')"
+              minlength="16"
+              id="numeroCartao"
+            />
+              <label>Número Segurança</label>
+              <input
+              type="text"
+              class="form-control"
+              onkeypress="$(this).mask('000')"
+              minlength="3"
+              id="numeroSeguranca"
+            />
+              <label> Data de expiração:</label>
+              <select>
+                  <option value='01'>Janeiro</option>
+                  <option value='02'>Fevereiro</option>
+                  <option value='03'>Março</option>
+                  <option value='04'>Abril</option>
+                  <option value='05'>Maio</option>
+                  <option value='06'>Junho</option>
+                  <option value='07'>Julho</option>
+                  <option value='08'>Agosto</option>
+                  <option value='09'>Setembro</option>
+                  <option value='10'>Outubro</option>
+                  <option value='11'>Novembro</option>
+                  <option value='12'>Dezembro</option>
+              </select> 
+                  <select name='anoexpiração' id='anoexpiração'>
+                      <option value='20'>2020</option>
+                      <option value='21'>2021</option>
+                      <option value='22'>2022</option>
+                      <option value='23'>2023</option>
+                      <option value='24'>2024</option>
+                  </select> 
+              </div>
+</div>
+      </div>
+      <p id="sucesso">Pedido realizado com sucesso</p>
+      <button class="submit1" type="submit">Confirma</button>
     </div>
     </form>
     <script src="JS/cliente.js"></script>
