@@ -139,7 +139,7 @@
           </div>
           <div class="form-group1">
             <label>Estado</label>
-            <select  minlength="1" name="estados" id="estado">
+            <select name="estados" id="estado">
               <option value="SP">SP</option>
             </select>
           </div>
@@ -243,29 +243,28 @@
               </div>
 </div>
 <div id="campoPIX">
-  <label for="">Chave CPF</label>
+  <label for="radioPixCPF">Chave CPF</label>
   <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixCPF" value="pixCPF">
-  <label for="">Chave Telefone</label>
+  <label for="radioPixFone">Chave Telefone</label>
   <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixFone" value="pixFone">
-  <label for="">Chave E-mail</label>
+  <label for="radioPixEmail">Chave E-mail</label>
   <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixEmail" value="pixEmail">
-  <label for="">Chave Aleatória</label>
+  <label for="radioPixKey">Chave Aleatória</label>
   <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixKey" value="pixKey">
   <div id="inputPIX">
       <label id="labelPixCPF" class="pixCPF" for="inputPixCPF">CPF</label>
       <input class="pixCPF"  type="text" id="inputPixCPF">
-      <label id="labelPixTelefone" class="pixFone"  for="">Telefone</label>
+      <label id="labelPixTelefone" class="pixFone"  for="inputPixTelefone">Telefone</label>
       <input class="pixEmail"  type="text" id="inputPixTelefone">
-      <label id="labelPixEmail" class="pixEmail"  for="">E-mail</label>
+      <label id="labelPixEmail" class="pixEmail"  for="inputPixEmail">E-mail</label>
       <input class="pixEmail"  type="text" id="inputPixEmail">
-      <label id="labelPixKey" class="pixKey"  for="">Chave Aleatória</label>
+      <label id="labelPixKey" class="pixKey"  for="inputPixKey">Chave Aleatória</label>
       <input class="pixKey"  type="text" id="inputPixKey">
   </div>
 </div>
       </div>
       <p id="sucesso">Pedido realizado com sucesso</p>
       <button class="submit1" type="submit">Confirma</button>
-    </div>
     </form>
     <script src="JS/cliente.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>

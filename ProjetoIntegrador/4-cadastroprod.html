@@ -13,42 +13,42 @@
     />
     <link rel="stylesheet" href="CSS/style.css" />
   </head>
-  <header>
-    <nav
-      class="navbar navbar-dark bg-dark d-flex align-self-center justify-content-between"
-    >
-      <a class="navbar-brand" href="1-login.html"
-        ><img
-          src="img/logo-sem-fundo.png"
-          alt="Logo da empresa RangoTop"
-          id="logo-tela-cpf"
-          style="max-height: 200px"
-      /></a>
-      <div class="d-flex align-self-center justify-content-between">
-        <a href="Loja.html" class="btn-6">Lojas</a>
-        <a href="5-configuracao.html" class="btn-6">Configuração</a>
-        <form class="form-inline my-2 my-md-0">
-          <input
-            class="form-control"
-            type="text"
-            placeholder="Pesquisa"
-            aria-label="Search"
-          />
-          <button class="btn btn-outline-light my-2 my-sm-0" type="submit">
-            Pesquisar
-          </button>
-        </form>
-      </div>
-    </nav>
-  </header>
   <body>
+    <header>
+      <nav
+        class="navbar navbar-dark bg-dark d-flex align-self-center justify-content-between"
+      >
+        <a class="navbar-brand" href="1-login.html"
+          ><img
+            src="img/logo-sem-fundo.png"
+            alt="Logo da empresa RangoTop"
+            id="logo-tela-cpf"
+            style="max-height: 200px"
+        /></a>
+        <div class="d-flex align-self-center justify-content-between">
+          <a href="Loja.html" class="btn-6">Lojas</a>
+          <a href="5-configuracao.html" class="btn-6">Configuração</a>
+          <form class="form-inline my-2 my-md-0">
+            <input
+              class="form-control"
+              type="text"
+              placeholder="Pesquisa"
+              aria-label="Search"
+            />
+            <button class="btn btn-outline-light my-2 my-sm-0" type="submit">
+              Pesquisar
+            </button>
+          </form>
+        </div>
+      </nav>
+    </header>
     <main>
       <div class="container1">
         <div id="carrinho">
           <h2>Carrinho</h2>
-          <img height="30px" src="img/x-tudo-duplo.jpg" alt="">
+          <img height="30" src="img/x-tudo-duplo.jpg" alt="">
           <p>X-tudo</p>
-          <img height="30px" src="img/hotdog.jpg" alt="">
+          <img height="30" src="img/hotdog.jpg" alt="">
           <p>hotdog</p>
           <p>Observações:</p>
           <textarea
@@ -60,7 +60,6 @@
         </div>
       </div>
       <div class="container1">
-        <form action="#" id="form">
           <div id="usuarioCNPJ">
             <div id="tipoAtendimento">
               <h2>Tipo de Atendimento</h2>
@@ -70,8 +69,6 @@
                   required
                   type="radio"
                   onclick="mostraEndereco()"
-                  requer
-                  id="pf"
                   name="documento"
                   value="CPF"
                 />
@@ -82,8 +79,6 @@
                   required
                   onclick="escondeEndereco()"
                   type="radio"
-                  requer
-                  id="pj"
                   name="documento"
                   value="CNPJ"
                 />
@@ -94,8 +89,6 @@
                   required
                   type="radio"
                   onclick="escondeEndereco()"
-                  requer
-                  id="pf"
                   name="documento"
                   value="CPF"
                 />
@@ -108,7 +101,7 @@
               </div>
               <div class="form-group1">
                 <label>Estado</label>
-                <select required name="estados" id="Estado">
+                <select name="estados" id="Estado">
                   <option value="SP">SP</option>
                 </select>
               </div>
@@ -139,8 +132,6 @@
                   required
                   type="radio"
                   onclick="cpf()"
-                  requer
-                  id="pf"
                   name="documento"
                   value="CPF"
                 />
@@ -151,8 +142,6 @@
                   required
                   onclick="cnpj()"
                   type="radio"
-                  requer
-                  id="pj"
                   name="documento"
                   value="CNPJ"
                 />
@@ -163,8 +152,6 @@
                   required
                   type="radio"
                   onclick="cpf()"
-                  requer
-                  id="pf"
                   name="documento"
                   value="CPF"
                 />
@@ -173,9 +160,6 @@
             <button class="submit1" type="submit">Enviar</button>
             </div>
           </div>
-        </div>
-        </form>
-      </div>
     </main>
     <script src="JS/cliente.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
