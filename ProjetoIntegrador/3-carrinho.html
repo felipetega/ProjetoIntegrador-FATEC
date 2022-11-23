@@ -151,6 +151,7 @@
           </div>
           <div class="form-group1">
             <input
+              id="cep"
               type="text"
               class="form-control"
               onkeypress="$(this).mask('00.000-000')"
@@ -192,37 +193,11 @@
             value="pix"
           />
         </div>
-        <div id="endereco">
-          <h2>Endereço</h2>
-          <div class="form-group1">
-            <input type="text" minlength="1" /><label>Rua</label>
-          </div>
-          <div class="form-group1">
-            <label>Estado</label>
-            <select  minlength="1" name="estados" id="Estado">
-              <option value="SP">SP</option>
-            </select>
-          </div>
-          <div class="form-group1">
-            <input type="text"  minlength="1" /><label>Cidade</label>
-          </div>
-          <div class="form-group1">
-            <input type="text"  minlength="1" /><label>Número</label>
-          </div>
-          <div class="form-group1">
-            <input
-              type="text"
-              class="form-control"
-              onkeypress="$(this).mask('00.000-000')"
-              minlength="10"
-            />
-            <label>CEP</label>
-          </div>
-        </div>
         <div id="campoCartao">
           <div class="mb-3">
               <label>Nome Cartão</label>
               <input placeholder="Ex: Douglas Tiosso"
+              id="nomeCartao"
               type="text"
               class="form-control"
               minlength="1"
@@ -266,6 +241,26 @@
                       <option value='24'>2024</option>
                   </select> 
               </div>
+</div>
+<div id="campoPIX">
+  <label for="">Chave CPF</label>
+  <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixCPF" value="pixCPF">
+  <label for="">Chave Telefone</label>
+  <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixFone" value="pixFone">
+  <label for="">Chave E-mail</label>
+  <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixEmail" value="pixEmail">
+  <label for="">Chave Aleatória</label>
+  <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixKey" value="pixKey">
+  <div id="inputPIX">
+      <label id="labelPixCPF" class="pixCPF" for="inputPixCPF">CPF</label>
+      <input class="pixCPF"  type="text" id="inputPixCPF">
+      <label id="labelPixTelefone" class="pixFone"  for="">Telefone</label>
+      <input class="pixEmail"  type="text" id="inputPixTelefone">
+      <label id="labelPixEmail" class="pixEmail"  for="">E-mail</label>
+      <input class="pixEmail"  type="text" id="inputPixEmail">
+      <label id="labelPixKey" class="pixKey"  for="">Chave Aleatória</label>
+      <input class="pixKey"  type="text" id="inputPixKey">
+  </div>
 </div>
       </div>
       <p id="sucesso">Pedido realizado com sucesso</p>

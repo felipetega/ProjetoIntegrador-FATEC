@@ -460,3 +460,11 @@ body {
 #campoCartao{
   display: none;
 }
+
+#campoPIX{
+  display: none;
+}
+
+.pixCPF, .pixFone, .pixEmail, .pixKey{
+  display: none;
+}
