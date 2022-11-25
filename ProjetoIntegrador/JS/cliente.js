@@ -152,4 +152,19 @@ function opcoesPIX() {
 function sucesso() {
   var sucesso = document.getElementById('sucesso')
   sucesso.style.display = 'block'
+  window.alert("Sucesso!")
+}
+
+qtdProduto1=document.getElementById("qtdProduto1").innerText
+qtdProduto2=document.getElementById("qtdProduto2").innerText
+
+console.log(1*qtdProduto2+1)
+
+function carrinho(){
+  plus1=document.getElementById("plus1")
+  minus1=document.getElementById("minus1")
+  plus2=document.getElementById("plus2")
+  minus2=document.getElementById("minus2")
+
+
 }
