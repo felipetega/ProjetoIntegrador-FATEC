@@ -455,6 +455,10 @@ body {
   display: none;
 }
 
+#inputPIX{
+  display: none;
+}
+
 .pixCPF, .pixFone, .pixEmail, .pixKey{
   display: none;
 }

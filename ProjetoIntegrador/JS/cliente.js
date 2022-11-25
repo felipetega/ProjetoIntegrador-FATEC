@@ -91,6 +91,7 @@ function formaDePagamento() {
 }
 
 function opcoesPIX() {
+  opcoesPix = document.getElementById("inputPIX")
   inputPixCPF = document.getElementById('inputPixCPF')
   labelPixCPF = document.getElementById('labelPixCPF')
   inputPixTelefone = document.getElementById('inputPixTelefone')
@@ -104,6 +105,7 @@ function opcoesPIX() {
   console.log(checkPIX)
 
   if (checkPIX == 'pixCPF') {
+    opcoesPix.style.display = 'block'
     inputPixCPF.style.display = 'block'
     labelPixCPF.style.display = 'block'
     inputPixCPF.required = true
@@ -114,6 +116,7 @@ function opcoesPIX() {
   }
 
   if (checkPIX == 'pixFone') {
+    opcoesPix.style.display = 'block'
     inputPixTelefone.style.display = 'block'
     labelPixTelefone.style.display = 'block'
     inputPixTelefone.required = true
@@ -124,6 +127,7 @@ function opcoesPIX() {
   }
 
   if (checkPIX == 'pixEmail') {
+    opcoesPix.style.display = 'block'
     inputPixEmail.style.display = 'block'
     labelPixEmail.style.display = 'block'
     inputPixEmail = true
@@ -134,6 +138,7 @@ function opcoesPIX() {
   }
 
   if (checkPIX == 'pixKey') {
+    opcoesPix.style.display = 'block'
     inputPixKey.style.display = 'block'
     labelPixKey.style.display = 'block'
     inputPixKey.required = true
