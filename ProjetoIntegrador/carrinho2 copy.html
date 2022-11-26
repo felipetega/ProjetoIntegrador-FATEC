@@ -21,7 +21,9 @@
             <div class="produtoX">
               <div class="row">
                 <div class="col">
-                  <p class="nomeProduto">HotDog</p>
+                  <p
+                  id="hotdog"
+                  class="nomeProduto"></p>
                 </div>
               </div>
               <div class="row">
@@ -38,7 +40,7 @@
                 <div class="col">
                   <div class="row">
                     <div name="plus" class="plus"
-                    id="plus1">
+                    id="plus1" onclick="carrinho(this.id)">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="30"
@@ -56,7 +58,8 @@
                       </svg>
                     </div> 
                     <div name="minus" class="minus"
-                    id="minus1">
+                    id="minus1"
+                    onclick="carrinho(this.id)">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="30"
@@ -79,7 +82,8 @@
               <div class="row">
                 <div class="col">
                   <p
-                   class="qtdProduto">Quantidade: <p id="qtdProduto1">0</p></p>
+                  id="qtdProduto1"
+                  class="qtdProduto">Quantidade: 1</p>
                 </div>
               </div>              
             </div>
@@ -87,7 +91,9 @@
             <div class="produtoX">
               <div class="row">
                 <div class="col">
-                  <p class="nomeProduto">HotDog</p>
+                  <p
+                  id="xtudo"
+                  class="nomeProduto"></p>
                 </div>
               </div>
               <div class="row">
@@ -104,7 +110,8 @@
                 <div class="col">
                   <div class="row">
                     <div name="plus" class="plus"
-                    id="plus2">
+                    id="plus2"
+                    onclick="carrinho(this.id)">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="30"
@@ -122,7 +129,8 @@
                       </svg>
                     </div> 
                     <div name="minus" class="minus"
-                    id="minus2">
+                    id="minus2"
+                    onclick="carrinho(this.id)">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="30"
@@ -145,188 +153,206 @@
               <div class="row">
                 <div class="col">
                   <p
-                  class="qtdProduto">Quantidade: <p id="qtdProduto2">0</p></p>  
+                  id="qtdProduto2"
+                  class="qtdProduto">Quantidade: 1</p>
+                </div>
                 </div>
               </div>              
             </div>
 
           </div>
-      </div>
-      <div class="row">
-        <div class="col">
-          <div id="tipoAtendimento" class="containerX">
-            <h2>Tipo de Atendimento</h2>
-            <div>
-              <label>Entrega</label>
-              <input
-                required
-                type="radio"
-                onclick="endereco()"
-                name="tipoAtendimento"
-                value="entrega"
-              />
+          <div class="row">
+            <div class="col">
+              <h2 id="total"></h2>
             </div>
-            <div>
-              <label>Retirada</label>
-              <input
-                required
-                onclick="endereco()"
-                type="radio"
-                name="tipoAtendimento"
-                value="retirada"
-              />
+          </div>
+
+
+          <div class="row">
+            <div class="col">
+              <div id="tipoAtendimento" class="containerX">
+                <h2>Tipo de Atendimento</h2>
+                <div>
+                  <label>Entrega</label>
+                  <input
+                    required
+                    type="radio"
+                    onclick="endereco()"
+                    name="tipoAtendimento"
+                    value="entrega"
+                  />
+                </div>
+                <div>
+                  <label>Retirada</label>
+                  <input
+                    required
+                    onclick="endereco()"
+                    type="radio"
+                    name="tipoAtendimento"
+                    value="retirada"
+                  />
+                </div>
+                <div>
+                  <label>Consumo Local</label>
+                  <input
+                    required
+                    type="radio"
+                    onclick="endereco()"
+                    name="tipoAtendimento"
+                    value="local"
+                  />
+                </div>
+                <div id="endereco">
+                  <h2>Endereço</h2>
+                  <div class="mb-3">
+                    <label>Rua</label>
+                    <input type="text"  minlength="1" id="rua" class="form-control" />
+                    <label>Estado</label>
+                    <select class="form-control" name="estado" id="estado">
+                      <option value="SP">SP</option>
+                    </select>
+                    <label>Cidade</label>
+                    <input class="form-control" type="text"  minlength="1" id="cidade" />
+                    <label>Número</label>
+                    <input class="form-control" type="number"  minlength="1" id="numero" />
+                    <label>CEP</label>
+                    <input
+                    class="form-control"
+                      id="cep"
+                      type="text"
+                      class="form-control"
+                      onkeypress="$(this).mask('00.000-000')"
+                      minlength="10"
+                    />
+                  </div>
+                </div>
+              </div>
             </div>
-            <div>
-              <label>Consumo Local</label>
-              <input
-                required
-                type="radio"
-                onclick="endereco()"
-                name="tipoAtendimento"
-                value="local"
-              />
-            </div>
-            <div id="endereco">
-              <h2>Endereço</h2>
-              <div class="mb-3">
-                <label>Rua</label>
-                <input type="text"  minlength="1" id="rua" class="form-control" />
-                <label>Estado</label>
-                <select class="form-control" name="estado" id="estado">
-                  <option value="SP">SP</option>
-                </select>
-                <label>Cidade</label>
-                <input class="form-control" type="text"  minlength="1" id="cidade" />
-                <label>Número</label>
-                <input class="form-control" type="number"  minlength="1" id="numero" />
-                <label>CEP</label>
-                <input
-                class="form-control"
-                  id="cep"
-                  type="text"
-                  class="form-control"
-                  onkeypress="$(this).mask('00.000-000')"
-                  minlength="10"
-                />
+            <div class="col-sm">
+              <div id="formaPagamento" class="containerX">
+                <h2>Forma de Pagamento</h2>
+                <div>
+                  <label>Dinheiro</label>
+                  <input
+                    required
+                    onclick="formaDePagamento()"
+                    type="radio"
+                    name="formaPagamento"
+                    value="dinheiro"
+                  />
+                </div>
+                <div>
+                  <label>Cartão de Crédito</label>
+                  <input
+                    required
+                    onclick="formaDePagamento()"
+                    type="radio"
+                    name="formaPagamento"
+                    value="cartao"
+                  />
+                </div>
+                <div>
+                  <label>PIX</label>
+                  <input
+                    required
+                    onclick="formaDePagamento()"
+                    type="radio"
+                    name="formaPagamento"
+                    value="pix"
+                  />
+                </div>
+                <div id="campoCartao">
+                  <div class="mb-3">
+                      <label>Nome Cartão</label>
+                      <input placeholder="Ex: Douglas Tiosso"
+                      id="nomeCartao"
+                      type="text"
+                      class="form-control"
+                      minlength="1"
+                      />
+                      <label>Número Cartão</label>
+                      <input
+                      type="text"
+                      class="form-control"
+                      onkeypress="$(this).mask('0000-0000-0000-0000')"
+                      minlength="16"
+                      id="numeroCartao"
+                    />
+                      <label>Número Segurança</label>
+                      <input
+                      type="text"
+                      class="form-control"
+                      onkeypress="$(this).mask('000')"
+                      minlength="3"
+                      id="numeroSeguranca"
+                    />
+                      <label> Data de expiração:</label>
+                      <select>
+                          <option value='01'>Janeiro</option>
+                          <option value='02'>Fevereiro</option>
+                          <option value='03'>Março</option>
+                          <option value='04'>Abril</option>
+                          <option value='05'>Maio</option>
+                          <option value='06'>Junho</option>
+                          <option value='07'>Julho</option>
+                          <option value='08'>Agosto</option>
+                          <option value='09'>Setembro</option>
+                          <option value='10'>Outubro</option>
+                          <option value='11'>Novembro</option>
+                          <option value='12'>Dezembro</option>
+                      </select> 
+                          <select name='anoexpiração' id='anoexpiração'>
+                              <option value='20'>2020</option>
+                              <option value='21'>2021</option>
+                              <option value='22'>2022</option>
+                              <option value='23'>2023</option>
+                              <option value='24'>2024</option>
+                          </select> 
+                      </div>
+        </div>
+        <div id="campoPIX">
+          <div>
+          <label for="radioPixCPF">Chave CPF</label>
+          <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixCPF" value="pixCPF">
+        </div>
+        <div>
+          <label for="radioPixFone">Chave Telefone</label>
+          <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixFone" value="pixFone">
+        </div>
+        <div>
+          <label for="radioPixEmail">Chave E-mail</label>
+          <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixEmail" value="pixEmail">
+        </div>
+        <div>
+          <label for="radioPixKey">Chave Aleatória</label>
+          <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixKey" value="pixKey">
+        </div>
+        
+          <div id="inputPIX">
+              <label id="labelPixCPF" for="inputPixCPF">CPF</label>
+              <input class="form-control"   type="text" id="inputPixCPF" onkeypress="$(this).mask('000.000.000-00')" minlength="14">
+              <label id="labelPixTelefone" class="pixFone"  for="inputPixTelefone">Telefone</label>
+              <input class="form-control"   type="text" id="inputPixTelefone" onkeypress="$(this).mask('(00)00000-0000')" minlength="13">
+              <label id="labelPixEmail" class="pixEmail"  for="inputPixEmail">E-mail</label>
+              <input class="form-control"   type="text" id="inputPixEmail">
+              <label id="labelPixKey" class="pixKey"  for="inputPixKey">Chave Aleatória</label>
+              <input class="form-control"   type="text" id="inputPixKey" onkeypress="$(this).mask('00000000000000000000000000000000')" minlength="32">
+          </div>
+        </div>
               </div>
             </div>
           </div>
-        </div>
-        <div class="col-sm">
-          <div id="formaPagamento" class="containerX">
-            <h2>Forma de Pagamento</h2>
-            <div>
-              <label>Dinheiro</label>
-              <input
-                required
-                onclick="formaDePagamento()"
-                type="radio"
-                name="formaPagamento"
-                value="dinheiro"
-              />
+          <div class="row">
+            <div class="col">
+              <div id="sucesso" class="alert alert-success" role="alert">
+                Pedido realizado com sucesso
+              </div>
+              <button class="submit1" type="submit">Confirma</button>
             </div>
-            <div>
-              <label>Cartão de Crédito</label>
-              <input
-                required
-                onclick="formaDePagamento()"
-                type="radio"
-                name="formaPagamento"
-                value="cartao"
-              />
-            </div>
-            <div>
-              <label>PIX</label>
-              <input
-                required
-                onclick="formaDePagamento()"
-                type="radio"
-                name="formaPagamento"
-                value="pix"
-              />
-            </div>
-            <div id="campoCartao">
-              <div class="mb-3">
-                  <label>Nome Cartão</label>
-                  <input placeholder="Ex: Douglas Tiosso"
-                  id="nomeCartao"
-                  type="text"
-                  class="form-control"
-                  minlength="1"
-                  />
-                  <label>Número Cartão</label>
-                  <input
-                  type="text"
-                  class="form-control"
-                  onkeypress="$(this).mask('0000-0000-0000-0000')"
-                  minlength="16"
-                  id="numeroCartao"
-                />
-                  <label>Número Segurança</label>
-                  <input
-                  type="text"
-                  class="form-control"
-                  onkeypress="$(this).mask('000')"
-                  minlength="3"
-                  id="numeroSeguranca"
-                />
-                  <label> Data de expiração:</label>
-                  <select>
-                      <option value='01'>Janeiro</option>
-                      <option value='02'>Fevereiro</option>
-                      <option value='03'>Março</option>
-                      <option value='04'>Abril</option>
-                      <option value='05'>Maio</option>
-                      <option value='06'>Junho</option>
-                      <option value='07'>Julho</option>
-                      <option value='08'>Agosto</option>
-                      <option value='09'>Setembro</option>
-                      <option value='10'>Outubro</option>
-                      <option value='11'>Novembro</option>
-                      <option value='12'>Dezembro</option>
-                  </select> 
-                      <select name='anoexpiração' id='anoexpiração'>
-                          <option value='20'>2020</option>
-                          <option value='21'>2021</option>
-                          <option value='22'>2022</option>
-                          <option value='23'>2023</option>
-                          <option value='24'>2024</option>
-                      </select> 
-                  </div>
-    </div>
-    <div id="campoPIX">
-      <label for="radioPixCPF">Chave CPF</label>
-      <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixCPF" value="pixCPF">
-      <label for="radioPixFone">Chave Telefone</label>
-      <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixFone" value="pixFone">
-      <label for="radioPixEmail">Chave E-mail</label>
-      <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixEmail" value="pixEmail">
-      <label for="radioPixKey">Chave Aleatória</label>
-      <input onclick="opcoesPIX()" type="radio" name="pix" id="radioPixKey" value="pixKey">
-    
-      <div id="inputPIX">
-          <label id="labelPixCPF" for="inputPixCPF">CPF</label>
-          <input class="form-control"   type="text" id="inputPixCPF" onkeypress="$(this).mask('000.000.000-00')" minlength="14">
-          <label id="labelPixTelefone" class="pixFone"  for="inputPixTelefone">Telefone</label>
-          <input class="form-control"   type="text" id="inputPixTelefone" onkeypress="$(this).mask('(00)00000-0000')" minlength="13">
-          <label id="labelPixEmail" class="pixEmail"  for="inputPixEmail">E-mail</label>
-          <input class="form-control"   type="text" id="inputPixEmail">
-          <label id="labelPixKey" class="pixKey"  for="inputPixKey">Chave Aleatória</label>
-          <input class="form-control"   type="text" id="inputPixKey" onkeypress="$(this).mask('00000000000000000000000000000000')" minlength="32">
-      </div>
-    </div>
           </div>
-        </div>
+
+          
       </div>
-      <div class="row">
-        <div class="col">
-          <div id="sucesso" class="alert alert-success" role="alert">
-            Pedido realizado com sucesso
-          </div>
-          <button class="submit1" type="submit">Confirma</button>
-        </div>
-      </div>
-    </div>
 
   </form>
 

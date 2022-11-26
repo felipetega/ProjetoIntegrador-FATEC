@@ -417,7 +417,7 @@ body {
   margin: 20px 0;
 }
 
-.nomeProduto, .qtdProduto{
+.nomeProduto, .qtdProduto, #labelPixCPF, #labelPixTelefone, #labelPixEmail, #labelPixKey{
   font-size: 20px;
   text-align: center;
   font-weight: bold;

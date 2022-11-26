@@ -1,3 +1,20 @@
+var qtdProduto1 = 1
+var qtdProduto2 = 1
+var precoHotdog = 10
+var precoXtudo = 25
+
+function produtosIniciais() {
+  total = document.getElementById('total')
+  hotdog = document.getElementById('hotdog')
+  xtudo=document.getElementById("xtudo")
+
+  precoTotal = qtdProduto1 * precoHotdog + qtdProduto2 * precoXtudo
+  total.innerText = `Total: R$${precoTotal},00`
+  hotdog.innerText = `HotDog  ||  R$${precoHotdog},00`
+  xtudo.innerText = `X-tudo  ||  R$${precoXtudo},00`
+}
+produtosIniciais()
+
 function cpfEcnpj() {
   var cpf = document.getElementById('cpf')
   var cnpj = document.getElementById('cnpj')
@@ -70,28 +87,28 @@ function formaDePagamento() {
   }
 
   var pix = document.getElementById('campoPIX')
-  radioPixCPF=document.getElementById("radioPixCPF")
-  radioPixFone=document.getElementById("radioPixFone")
-  radioPixEmail=document.getElementById("radioPixEmail")
-  radioPixKey=document.getElementById("radioPixKey")
+  radioPixCPF = document.getElementById('radioPixCPF')
+  radioPixFone = document.getElementById('radioPixFone')
+  radioPixEmail = document.getElementById('radioPixEmail')
+  radioPixKey = document.getElementById('radioPixKey')
 
   if (check == 'pix') {
     pix.style.display = 'block'
-    radioPixCPF.required=true
-    radioPixFone.required=true
-    radioPixEmail.required=true
-    radioPixKey.required=true
+    radioPixCPF.required = true
+    radioPixFone.required = true
+    radioPixEmail.required = true
+    radioPixKey.required = true
   } else {
     pix.style.display = 'none'
-    radioPixCPF.required=false
-    radioPixFone.required=false
-    radioPixEmail.required=false
-    radioPixKey.required=false
+    radioPixCPF.required = false
+    radioPixFone.required = false
+    radioPixEmail.required = false
+    radioPixKey.required = false
   }
 }
 
 function opcoesPIX() {
-  opcoesPix = document.getElementById("inputPIX")
+  opcoesPix = document.getElementById('inputPIX')
   inputPixCPF = document.getElementById('inputPixCPF')
   labelPixCPF = document.getElementById('labelPixCPF')
   inputPixTelefone = document.getElementById('inputPixTelefone')
@@ -152,19 +169,36 @@ function opcoesPIX() {
 function sucesso() {
   var sucesso = document.getElementById('sucesso')
   sucesso.style.display = 'block'
-  window.alert("Sucesso!")
+  window.alert('Sucesso!')
 }
 
-qtdProduto1=document.getElementById("qtdProduto1").innerText
-qtdProduto2=document.getElementById("qtdProduto2").innerText
+function carrinho(id) {
+  plus1 = document.getElementById('plus1')
+  minus1 = document.getElementById('minus1')
+  produto1 = document.getElementById('qtdProduto1')
 
-console.log(1*qtdProduto2+1)
+  plus2 = document.getElementById('plus2')
+  minus2 = document.getElementById('minus2')
+  produto2 = document.getElementById('qtdProduto2')
 
-function carrinho(){
-  plus1=document.getElementById("plus1")
-  minus1=document.getElementById("minus1")
-  plus2=document.getElementById("plus2")
-  minus2=document.getElementById("minus2")
-
-
+  if (id == 'plus1' && qtdProduto1 < 10) {
+    qtdProduto1 += 1
+    produto1.innerText = `Quantidade: ${qtdProduto1}`
+  } else if (id == 'minus1' && qtdProduto1 > 1) {
+    qtdProduto1 -= 1
+    produto1.innerText = `Quantidade: ${qtdProduto1}`
+  }
+  if (id == 'plus2' && qtdProduto2 < 10) {
+    qtdProduto2 += 1
+    produto2.innerText = `Quantidade: ${qtdProduto2}`
+  } else if (id == 'minus2' && qtdProduto2 > 1) {
+    qtdProduto2 -= 1
+    produto2.innerText = `Quantidade: ${qtdProduto2}`
+  }
+  function total() {
+    total = document.getElementById('total')
+    precoTotal = qtdProduto1 * precoHotdog + qtdProduto2 * precoXtudo
+    total.innerText = `Total: R$${precoTotal},00`
+  }
+  total()
 }
