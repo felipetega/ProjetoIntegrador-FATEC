@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body::-webkit-scrollbar{
+    width: 0px;
+}
+
+body{
+    scrollbar-width: 0;
+}
+
+#insta{
+    /*position:fixed;*/
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#insta header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background:#fff;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 55px;
+    min-height: 44px;
+    padding: 0 16px;
+
+    border-bottom: 1px solid rgb(0, 0, 0, 0.2);
+}
+
+#insta main{
+    flex: 1;
+    background: #fafafa;
+    padding: 45px 0;
+
+}
+
+#insta footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 44px;
+    min-height: 44px;
+    background: #fff;
+    border-top: 1px solid rgb(0, 0, 0, 0.2);
+}
+
+#insta footer a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    }
+
+    #insta footer a img{
+        border-radius: 30px;
+    }
+
+.scroll{
+    background-color: red;
+}

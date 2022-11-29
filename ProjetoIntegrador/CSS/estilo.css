@@ -1,0 +1,213 @@
+body{
+    width: 100%;
+    overflow: hidden;
+    
+    display: grid;
+    grid-template:
+    "header header  header  " auto
+    "nav    article aside   " 1fr
+    "nav    footer  footer  " auto /
+    auto    1fr     auto;
+    /*width: 100vw;
+        height: 100vh;
+        color: #e2e2e2;
+        background-size: cover;
+        background: rgb(150, 124, 124);*/
+}
+
+
+.scroll::-webkit-scrollbar{
+  width: 12px;
+  border: 1px solid rgb(200,200,200);
+}
+
+.scroll::-webkit-scrollbar-thumb{
+  background-color: gold;
+  border-radius: 6px;
+}
+
+.scroll{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  width: 100vw;
+  height: 100vh;
+  background-color: #ccc;  
+  padding: 15px 2%;
+  overflow-y: scroll;
+  box-shadow: 0 0 5px solid rgba(0, 0, 0, 0.3);
+}
+
+
+p{
+  text-align: center;
+}
+
+#header-nf{
+    grid-area: header;
+    background: rgb(242, 63, 63);
+    width: 100%;
+    height: 50px;
+    }
+    
+    article{
+    grid-area: article;
+    background-color: rgb(242, 63, 63);
+    width: 75%;
+    height: 600px;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 25px;
+    margin-top: 25px;
+    margin-left: 100px;
+  }
+    
+    aside{
+    grid-area: aside;
+    width: 100%;
+    height: 500px;
+    padding-right: 100px;
+    padding-top: 75px;
+    }
+    
+    nav{
+    grid-area: nav;
+    background: rgb(242, 63, 63);
+    width: 100%;
+    }
+    
+    footer{
+    grid-area: footer;
+    background: rgb(242, 63, 63);
+    width: 100%;
+    height: 80px;
+    padding-top: 25px;
+    }
+
+    html {
+        font-family: sans-serif;
+      }
+      
+      body {
+        width: 100vw;
+        height: 100vh;
+        color: white;
+        background-size: cover;
+        background: rgb(242, 63, 63);
+      }
+     
+      .container {
+        width: 350px;
+        margin: auto;
+        margin-top: 10%;
+        padding: 8px;
+        backdrop-filter: blur(15px);
+        -webkit-backdrop-filter: blur(15px);
+        background-color: rgba(190, 190, 190, 0.1);
+        border-radius: 20px;
+        border: 1px solid white;
+        border-radius: 20px;
+        padding-right: 5%;
+      }
+
+      .title .subtitle{
+        text-align: center;
+        color: #f68e07;
+        font-weight: 600;
+      }
+      
+      .form {
+        padding: 15px;
+      }
+        
+      .form-group {
+        position: relative;
+        padding: 20px 0;
+        margin: auto;
+        max-width: 100%;
+      }
+      
+      .form-group input {
+        background-color: transparent;
+        border: none;
+        border-bottom: 1.5px solid #e2e2e2;
+        font-size: 18px;
+        padding: 10px 0;
+        display: block;
+        width: 100%;
+      }
+      
+      .form-group label {
+        color: #e2e2e2;
+        font-size: 16px;
+        font-weight: 100;
+        position: absolute;
+        pointer-events: none;
+        top: 0;
+        transform: translateY(30px);
+        transition: all 0.8s ease-in-out;
+        left: 0;
+      }
+      
+      .form-group input:valid, 
+      .form-group input:focus {
+        border-bottom-color: #e2e2e2;
+        outline: none;
+      }
+      
+      .form-group input:valid + label,
+      .form-group input:focus + label {
+        color: #e2e2e2;
+        font-size: 14px;
+        transform: translateY(0);
+      }
+      
+      .submit {
+        background: red;
+        padding: 7px 0;
+        outline: none;
+        font-size: 18px;
+        width: 100%;
+        margin: 17px 0;
+        cursor: pointer;
+        color: #f68e07;
+        border-radius: 8px;
+        transition: 0.9s;
+        border: 1px solid #2e2e2e;
+      }
+
+      .submit:hover {
+        background: #f68e07;
+        color: #2e2e2e;
+      }
+      
+      a {
+        text-decoration: none;
+      }
+      
+      .row a {
+        color: #f68e07;
+      }
+      
+      a:hover {
+        color: #f68e07;
+      }
+
+.carousel-fade img{
+    width:100%;
+    height: 580px;
+    /*border: 2px solid black;
+    padding: 10px;*/
+    border-radius: 25px;
+}
+
+.scroll{
+    width: 100%;
+    height: 500px;
+    background-color: #ccc;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
