@@ -1,6 +1,6 @@
 .body {
-     background: rgb(237,183,33);
-background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%); 
+    background: rgb(237,183,33);
+    background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%); 
 }
 
 .pesquisa{
@@ -9,11 +9,12 @@ background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(2
 }
 
 .nav-top {
-    height: 63px; 
     background: rgb(237,183,33) !important;
     background: linear-gradient(180deg, rgba(237,183,33,0.3981793400954131) 0%, rgba(255,255,255,1) 100%) !important; 
     /* border-top:0.5px solid #dbdbdb;  */
     /* border-bottom:1px solid #dbdbdb; */
+    align-items: center;
+    justify-content: center;
 }
 
 .nav-container {
@@ -40,8 +41,8 @@ background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(2
     -o-border-radius: 100%;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%; 
-    max-width:30px; 
-    max-height:25px;
+    max-width:100px; 
+    max-height:100px;
 }
 
 .img-profile {

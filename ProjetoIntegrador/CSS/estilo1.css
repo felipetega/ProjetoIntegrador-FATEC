@@ -2,30 +2,32 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    height: 100;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .scroll::-webkit-scrollbar{
-    width: 12px;
-    border: 1px solid rgb(200,200,200);
+    width: 12px !important;
+    border: 1px solid rgb(200,200,200) !important;
 }
 
 .scroll::-webkit-scrollbar-thumb{
-    background-color: gold;
-    border-radius: 6px;
+    background-color: gold !important;
+    border-radius: 6px !important;
 }
 
 .scroll{
-    position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%,-50%);
     width: 100vw;
-    height: 100vh;
-    background-color: #ccc;  
+    height: 95vh;
     padding: 30px 10%;
     margin-top: 44px;
     overflow-y: scroll;
     box-shadow: 0 0 5px solid rgba(0, 0, 0, 0.3);
+    background: rgb(237,183,33);
+    background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%);
 }
 
 .box{

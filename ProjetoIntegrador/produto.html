@@ -1,152 +1,138 @@
 <!doctype html>
 <html lang="pt-br">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-icon-180x180.png">
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="192x192"
-            href="/img/android-icon-192x192.png"
-        >
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="/img/favicon-32x32.png"
-        >
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="96x96"
-            href="/img/favicon-96x96.png"
-        >
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="/img/favicon-16x16.png"
-        >
-        <link rel="manifest" href="/img/manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="/img/ms-icon-144x144.png">
-        <meta name="theme-color" content="#ffffff">
-        <link rel="stylesheet" href="/ProjetoIntegrador/node_modules/bootstrap/dist/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/ProjetoIntegrador/node_modules/bootstrap-icons/font/bootstrap-icons.css">
-        <title>Top Burguer :: Produto</title>
-        <style>
-            body {
-                min-width: 372px;
-            }
-    
-            .wrapper {
-                min-height: 100vh;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="d-flex flex-column wrapper">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-danger border-bottom shadow-sm mb-3">
-                <div class="container">
-                    <a class="navbar-brand" href="loja.html">
-                        <strong>Top Burguer</strong>
-                    </a>
-                    <button
-                        class="navbar-toggler"
-                        type="button"
-                        data-bs-toggle="collapse"
-                        data-bs-target=".navbar-collapse"
-                    >
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse">
-                        <ul class="navbar-nav flex-grow-1">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="manifest" href="/img/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/img/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="/ProjetoIntegrador/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/ProjetoIntegrador/node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <title>Top Burguer :: Produto</title>
+    <style>
+        .nav-top {
+            background: rgb(237, 183, 33) !important;
+            background: linear-gradient(180deg, rgba(237, 183, 33, 0.3981793400954131) 0%, rgba(255, 255, 255, 1) 100%) !important;
+            color: rgb(0, 0, 0) !important;
+        }
+
+        body {
+            min-width: 372px;
+            background: rgb(237, 183, 33);
+            background: linear-gradient(0deg, rgba(237, 183, 33, 0.5466387238489145) 0%, rgba(255, 255, 255, 1) 100%);
+        }
+
+        .wrapper {
+            min-height: 100vh;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="d-flex flex-column wrapper ">
+        <nav class="navbar navbar-expand-lg navbar-dark nav-top mb-3">
+            <div class="container">
+                <a class="navbar-brand text-dark" href="loja.html">
+                    <strong>Top Burguer</strong>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target=".navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link active text-dark" href="loja.html">Principal</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="contato.html">Contato</a>
+                        </li>
+                    </ul>
+                    <div class="align-self-end">
+                        <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link active text-white" href="loja.html">Principal</a>
+                                <a href="/cadastro.html" class="nav-link text-dark">Quero Me Cadastrar</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-white" href="contato.html">Contato</a>
+                                <a href="/login.html" class="nav-link text-dark">Entrar</a>
+                            </li>
+                            <li class="nav-item">
+                                <span class="badge rounded-pill bg-light text-danger position-absolute ms-4 mt-0">
+                                    <small>2</small>
+                                </span>
+                                <a href="/carrinho.html" class="nav-link text-dark">
+                                    <i class="bi-cart" style="font-size:24px;"></i>
+                                </a>
                             </li>
                         </ul>
-                        <div class="align-self-end">
-                            <ul class="navbar-nav">
-                                <li class="nav-item">
-                                    <a href="/cadastro.html" class="nav-link text-white">Quero Me Cadastrar</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="/login.html" class="nav-link text-white">Entrar</a>
-                                </li>
-                                <li class="nav-item">
-                                    <span class="badge rounded-pill bg-light text-danger position-absolute ms-4 mt-0">
-                                        <small>2</small>
-                                    </span>
-                                    <a href="/carrinho.html" class="nav-link text-white">
-                                        <i class="bi-cart" style="font-size:24px;"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
                     </div>
                 </div>
-            </nav>
+            </div>
+        </nav>
 
-            <main class="flex-fill">
-                <div class="container">
-                    <div class="row g-3">
-                        <div class="col-12 col-sm-6">
-                            <img src="/ProjetoIntegrador/img/Lanches/x-costela.png" class="img-thumbnail" id="imgProduto">
-                        </div>
-                        <div class="col-12 col-sm-6">
-                            <h1>X-costela</h1>
-                            <p>
-                                Quis officia irure deserunt reprehenderit sunt non ut amet. Sunt veniam cillum aliqua. Elit
-                                labore duis laboris reprehenderit laborum magna velit dolor veniam sint.
-                            </p>
-                            <p>
-                                Do ut ad quis et qui qui tempor do irure laborum ullamco excepteur. Adipisicing ipsum ad
-                                excepteur sit ipsum adipisicing. Ut ut elit proident fugiat. Ad deserunt et consequat
-                                aliquip nisi ut dolore sit ut veniam fugiat culpa nulla. Consequat eiusmod ad deserunt ad
-                                sunt adipisicing deserunt nulla est cupidatat commodo do. Minim aliquip dolor in deserunt
-                                elit officia. Anim duis ullamco cillum nulla voluptate dolore velit ad Lorem adipisicing.
-                            </p>
-                            <p>
-                                <button class="btn btn-lg btn-danger mb-3 mb-xl-0 me-2">
-                                    <i class="bi-cart"></i> Adicionar ao Carrinho
-                                </button>
-                                <button class="btn btn-lg btn-outline-danger">
-                                    <i class="bi-heart"></i> Adicionar aos Favoritos
-                                </button>
-                            </p>
-                        </div>
+        <main class="flex-fill">
+            <div class="container">
+                <div class="row g-3">
+                    <div class="col-12 col-sm-6">
+                        <img src="/ProjetoIntegrador/img/Lanches/x-costela.png" class="img-thumbnail" id="imgProduto">
                     </div>
-                </div>
-            </main>
+                    <div class="col-12 col-sm-6">
+                        <h1>X-costela</h1>
+                        <p>
+                            Quis officia irure deserunt reprehenderit sunt non ut amet. Sunt veniam cillum aliqua. Elit
+                            labore duis laboris reprehenderit laborum magna velit dolor veniam sint.
+                        </p>
+                        <p>
+                            Do ut ad quis et qui qui tempor do irure laborum ullamco excepteur. Adipisicing ipsum ad
+                            excepteur sit ipsum adipisicing. Ut ut elit proident fugiat. Ad deserunt et consequat
+                            aliquip nisi ut dolore sit ut veniam fugiat culpa nulla. Consequat eiusmod ad deserunt ad
+                            sunt adipisicing deserunt nulla est cupidatat commodo do. Minim aliquip dolor in deserunt
+                            elit officia. Anim duis ullamco cillum nulla voluptate dolore velit ad Lorem adipisicing.
+                        </p>
+                        <p>
+                            <button class="btn btn-lg btn-outline-danger mb-3 mb-xl-0 me-2">
+                                <i class="bi-cart"></i> Adicionar ao Carrinho
+                            </button>
 
-            <footer class="border-top text-muted bg-light">
-                <div class="container">
-                    <div class="row py-3">
-                        <div class="col-12 col-md-4 text-center">
-                            &copy; 2022 - Top Burguer Ltda ME <br>
-                            Rua Morpheus, 42, Nabucodonosor/Zion <br>
-                            CNPJ 42.424.242/4242-42
-                        </div>
-                        <div class="col-12 col-md-4 text-center">
-                            <a href="privacidade.html" class="text-decoration-none text-dark">Polítca de Privacidade</a><br>
-                            <a href="termos.html" class="text-decoration-none text-dark">Termos de uso</a><br>
-                            <a href="quemsomos.html" class="text-decoration-none text-dark">Quem Somos</a><br>
-                        </div>
-                        <div class="col-12 col-md-4 text-center">
-                            <a href="#" class="text-decoration-none text-dark">
-                                Contato pelo site
-                            </a><br>
-                            E-mail: <a href="mailto:email@dominio.com" class="text-decoration-none text-dark">email@dominio.com</a>
-                            Telefone: <a href="phone:28999990000" class="text-decoration-none text-dark">(28) 99999-0000</a>
-                        </div>
+                        </p>
                     </div>
                 </div>
-            </footer>
-        </div>
-        <script src="/ProjetoIntegrador/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    </body>
+            </div>
+        </main>
+
+        <footer class="border-top text-muted bg-light">
+            <div class="container">
+                <div class="row py-3">
+                    <div class="col-12 col-md-4 text-center">
+                        &copy; 2022 - Top Burguer Ltda ME <br>
+                        Rua Morpheus, 42, Nabucodonosor/Zion <br>
+                        CNPJ 42.424.242/4242-42
+                    </div>
+                    <div class="col-12 col-md-4 text-center">
+                        <a href="privacidade.html" class="text-decoration-none text-dark">Polítca de Privacidade</a><br>
+                        <a href="termos.html" class="text-decoration-none text-dark">Termos de uso</a><br>
+                        <a href="quemsomos.html" class="text-decoration-none text-dark">Quem Somos</a><br>
+                    </div>
+                    <div class="col-12 col-md-4 text-center">
+                        <a href="#" class="text-decoration-none text-dark">
+                            Contato pelo site
+                        </a><br>
+                        E-mail: <a href="mailto:email@dominio.com"
+                            class="text-decoration-none text-dark">email@dominio.com</a>
+                        Telefone: <a href="phone:28999990000" class="text-decoration-none text-dark">(28) 99999-0000</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="/ProjetoIntegrador/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+</body>
+
 </html>

@@ -1,20 +1,9 @@
-<!doctype html>
-<html lang="en">
-
-<head>
-    <!-- Required meta tags -->
+<html lang="en"><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <link rel="stylesheet" href="CSS/formatacao.css">
-
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-
-    <!-- Icon-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
-
     <title>Rango TOP (perfil)</title>
 </head>
 
@@ -22,59 +11,83 @@
 
     <!-- Nav-->
     <header>
-        <nav class="navbar navbar-light nav-top">
-            <div class="container-fluid nav-container">
-                <a class="navbar-brand" href="postagem.html" target="_blank"><img
-                        src="Rango_Top_1_-removebg-preview.png" style=" max-width:130px; 
-                    max-height:80px"></a>
-                <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
-                </form>
-                <div style="width: 30%;">
-                    <a href="./feed1.html" style="text-decoration: none; color: red;"><i class="bi bi-house-door icons"></a></i>
-                    <i class="bi bi-shop icons"></i>
-                    <a href="./carrinho.html" style="text-decoration: none; color: red;"><i class="bi bi-cart icons"></a></i>
-                    <i class="bi bi-camera icons"></i>
-                    <!--<i class="bi bi-plus-square-dotted icons"></i>-->
-                    <!--<i class="bi bi-tools icons"></i>-->
-                    <a href="./config.html" style="text-decoration: none; color: red;"><i class="bi bi-gear icons"></a></i>
-                    <!--<img class="img-nav" src="imagens/perfil.jpeg">-->
+        <nav class="navbar navbar-expand-lg navbar-light mb-3 nav-top ">
+            <div class="container">
+                <a class="navbar-brand" href="postagem.html" target="_blank"><img src="/ProjetoIntegrador/logo.png" style=" max-width:200px;max-height:150px"></a>
+                <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-expanded="false">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse">
+                    <ul class="navbar-nav flex-grow-1">
+
+
+                    </ul>
+                    <div class="align-self-end">
+                        <ul class="navbar-nav">
+                            <li class="nav-item mt-3">
+                                <form class="d-flex justify-self-center">
+                                    <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
+                                        <i class="bi bi-search mt-1" style="color: black;"></i>
+                                </form>
+                            </li>
+                            <li class="nav-item" style="padding: 5px 5px;">
+                                <a href="/ProjetoIntegrador/6-feed.html" style="text-decoration: none; color: red;">
+                                    <i class="bi bi-house-door icons"></i></a>
+                            </li>
+                            <li class="nav-item" style="padding: 5px 5px;">
+                                <a href="/ProjetoIntegrador/loja.html" style="text-decoration: none; color: rgb(0, 0, 0);">
+                                    <i class="bi bi-shop icons"></i></a>
+                            </li>
+                            
+                            <li class="nav-item" style="padding: 5px 5px;">
+                                <a href="./feed1.html" style="text-decoration: none; color: red;">
+                                    <i class="bi bi-camera icons"></i></a>
+                            </li>
+                            <li class="nav-item mt-1">
+                                <a href="./config.html" style="text-decoration: none; color: rgb(0, 0, 0); padding: 5px 5px;"><i class="bi bi-gear icons"></i></a>
+                            </li>
+                            <li class="nav-item mt-1">
+                                <a href="./config.html" style="text-decoration: none; color: red; padding: 5px 5px;">
+                                    <i class="bi bi-chat-dots icons"></i></a>
+
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
 
     <!-- Main-->
-    <section>
+    <main>
         <div class="container">
-            <div class="row">
-                <div class="col-0 col-md-2"></div>
+            <div class="row justify-content-center">
+                
                 <div class="col-12 col-md-8">
 
                     <!-- Profile-->
                     <div class="container">
-                        <div class="row" style="padding-top: 20px;">
-                            <div class="col-3">
-                                <img class="img-profile" src="imagens/perfil.jpeg">
-                            </div>
+                        <div class="row justify-content-center">
                             <div class="col-7">
+                                <img src="imagens/perfil.jpeg" class="img-profile align-self-center">
+                            </div>
+                            <div class="col">
                                 <div class="row" style="padding-top: 20px; padding-bottom: 10px;">
-                                    <div class="col-8 col-lg-5">
+                                    <div class="col-8 col-lg-6">
                                         <h2 class="username">zequinha_123</h2>
                                     </div>
-                                    <div class="col-4 col-lg-6"><button type="button"
-                                            class="btn btn-outline-secondary button-edit"><a href="./editar.html"  style="text-decoration: none; color: white;"> Editar
-                                            perfil</a></button></div>
+                                    <div class="col col-lg-5"><button type="button" class="btn btn-outline-secondary button-edit"><a href="./editar.html" style="text-decoration: none; color: white;"> Editar
+                                                perfil</a></button></div>
                                 </div>
                                 <div class="row">
                                     <div class="col-4">
-                                        <p class="profile-datas"><strong>N</strong> publicações</p>
+                                        <p class="profile-datas"><b>N</b> publicações</p>
                                     </div>
                                     <div class="col-4">
-                                        <p class="profile-datas"><strong>N</strong> seguidores</p>
+                                        <p class="profile-datas"><b>N</b> seguidores</p>
                                     </div>
                                     <div class="col-4">
-                                        <p class="profile-datas"><strong>N</strong> seguindo</p>
+                                        <p class="profile-datas"><b>N</b> seguindo</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -88,39 +101,21 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-2"></div>
+                            
                         </div>
                     </div>
-
-                    <!-- Stories-->
-                    <!--<div style="padding-top: 0px;">
-                        <div class="row">
-                            <div class="col-2"> <canvas id="myCrl"></canvas></div>
-                            <div class="col-2"> <canvas id="myCrl1"></canvas></div>
-                            <div class="col-2"> <canvas id="myCrl2"></canvas></div>
-                        </div>
-                    </div>
-                    <div style="padding-bottom: 40px;">
-                        <div class="row">
-                            <div class="col-2 stories"> Rangos Aprovados</div>
-                            <div class="col-2 stories"> Bebidas Check</div>
-                            <div class="col-2 stories"> Lugares TOP</div>
-                        </div>
-                    </div>-->
-
                     <!-- Line-->
-                    <hr size="5" width="100%" color="#ff0000" style="margin: 0%;">
+                    <hr style="margin: 0%;" width="100%" size="5" color="#ff0000">
 
                     <!-- Nav-Feed-->
                     <ul class="nav nav-tabs nav-feed" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">
-                            <a class="nav-link active nav-link-1" id="home-tab" data-bs-toggle="tab" href="#home" role="tab"
-                                aria-controls="home" aria-selected="true" style="text-decoration: none; color: red;"><i class="bi bi-grid-3x3"></i> PUBLICAÇÕES</a>
+                            <a class="nav-link active nav-link-1" id="home-tab" data-bs-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true" style="text-decoration: none; color: red;"><i class="bi bi-grid-3x3"></i>
+                                PUBLICAÇÕES</a>
                         </li>
 
                         <li class="nav-item" role="presentation">
-                            <a class="nav-link nav-link-2" id="profile-tab" data-bs-toggle="tab" href="#profile" role="tab"
-                                aria-controls="profile" aria-selected="false" style="color: red;"><i class="bi bi-file-person"></i> MARCADOS</a>
+                            <a class="nav-link nav-link-2" id="profile-tab" data-bs-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" style="color: red;"><i class="bi bi-file-person"></i> MARCADOS</a>
                         </li>
                     </ul>
 
@@ -171,12 +166,12 @@
                                 </div>
                                 <div class="col-4">
                                     <div class="card">
-                                    
+
                                     </div>
                                 </div>
                                 <div class="col-4">
                                     <div class="card">
-                                        
+
                                     </div>
                                 </div>
                             </div>
@@ -185,10 +180,9 @@
                         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab"></div>
                     </div>
                 </div>
-                <div class="col-0 col-md-2"></div>
             </div>
         </div>
-    </section>
+    </main>
 
 
 
@@ -228,10 +222,85 @@
 
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
-        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
 </body>
-
 </html>

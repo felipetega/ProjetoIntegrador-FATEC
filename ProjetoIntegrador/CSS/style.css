@@ -3,7 +3,8 @@ body{
     width: 99%;
     color: #2e2e2e;
     background-size: cover;
-    background: #2e2e2e;
+    background: rgb(237,183,33);
+    background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%);  
     color: #f68e07;
 }
 
@@ -97,7 +98,9 @@ body{
   .form1 {
     padding: 15px;
   }
-  
+  .form-control{
+    color:#000000
+  }
   .form-group1 {
     position: relative;
     padding: 20px 0;
@@ -140,21 +143,21 @@ body{
   }*/
   
   .submit1 {
-    background: #2e2e2e;
+    background: #ffffff;
     padding: 7px 0;
     outline: none;
     font-size: 18px;
     width: 100%;
     margin: 17px 0;
     cursor: pointer;
-    color: #f68e07;
+    color: #ff0000;
     border-radius: 8px;
     transition: 0.9s;
     border: 1px solid #2e2e2e;
   }
   .submit1:hover{
-    color: #2e2e2e;
-    background-color: #f68e07;
+    color: #fdfdfd;
+    background-color: #ff0000;
   }
   .aces1 {
     text-align: center;
@@ -229,25 +232,25 @@ html {
 body {
   color: #2e2e2e;
   background-size: cover;
-  background: #2e2e2e;
+  background: rgb(237,183,33);
+  background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%); 
 }
 
 .container3 {
   width: 350px;
   margin: auto;
-  margin-top: 10%;
   padding: 8px;
   backdrop-filter: blur(15px);
   -webkit-backdrop-filter: blur(15px);
-  background-color: rgba(190, 190, 190, 0.1);
+  background-color: rgba(190, 190, 190, 0.322);
   border-radius: 20px;
-  border: 1px solid rgba(255, 255, 255, 0.125);
+  border: 1px solid rgb(255, 255, 255);
   border-radius: 20px;
 }
 
 .title3 {
   text-align: center;
-  color: #f68e07;
+  color: #000000;
   font-weight: 600;
 }
 
@@ -258,7 +261,9 @@ body {
 .selecionar4 input{
   float: right;
 }
-
+#body-9{
+  overflow: hidden;
+}
 .selecionar3 label{
   text-align: center;
   color: #e2e2e2;
@@ -316,7 +321,9 @@ body {
   font-size: 14px;
   transform: translateY(0);
 }
-
+.subtitle{
+  color: #000000;
+}
 .submit3 {
   background: #2e2e2e;
   padding: 7px 0;
@@ -352,7 +359,7 @@ body {
   padding: 10px 0;
   display: block;
   width: 100%;
-  color:darkorange;
+  color:rgb(0, 0, 0);
 }
 
 .text-esqueceu{

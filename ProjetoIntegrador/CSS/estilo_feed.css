@@ -10,7 +10,11 @@ body::-webkit-scrollbar{
 
 body{
     scrollbar-width: 0;
+    background: rgb(237,183,33);
+    background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%); 
 }
+
+   
 
 #insta{
     /*position:fixed;*/
@@ -25,16 +29,13 @@ body{
     left: 0;
     right: 0;
     background:#fff;
-
     display: flex;
     align-items: center;
     justify-content: space-between;
-
-    height: 55px;
     min-height: 44px;
     padding: 0 16px;
-
-    border-bottom: 1px solid rgb(0, 0, 0, 0.2);
+    background: rgb(237,183,33) !important;
+    background: linear-gradient(180deg, rgba(237,183,33,0.3981793400954131) 0%, rgba(255,255,255,1) 100%) !important; 
 }
 
 #insta main{
@@ -71,6 +72,3 @@ body{
         border-radius: 30px;
     }
 
-.scroll{
-    background-color: red;
-}

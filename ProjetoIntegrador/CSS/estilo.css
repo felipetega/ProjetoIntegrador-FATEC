@@ -1,9 +1,9 @@
 body{
-    width: 100%;
+    width: 100vh;
     overflow: hidden;
-    
     display: grid;
     grid-template:
+    "header header  header  " auto
     "header header  header  " auto
     "nav    article aside   " 1fr
     "nav    footer  footer  " auto /
@@ -13,6 +13,7 @@ body{
         color: #e2e2e2;
         background-size: cover;
         background: rgb(150, 124, 124);*/
+        border-top: 10px solid black;
 }
 
 
@@ -32,13 +33,13 @@ body{
   top: 50%;
   transform: translate(-50%,-50%);
   width: 100vw;
-  height: 100vh;
-  background-color: #ccc;  
+  height: 90vh;
   padding: 15px 2%;
   overflow-y: scroll;
   box-shadow: 0 0 5px solid rgba(0, 0, 0, 0.3);
+  background: rgb(237,183,33);
+  background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%); 
 }
-
 
 p{
   text-align: center;
