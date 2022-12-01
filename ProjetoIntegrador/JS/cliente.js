@@ -13,7 +13,7 @@ function produtosIniciais() {
   hotdog.innerText = `HotDog  ||  R$${precoHotdog},00`
   xtudo.innerText = `X-tudo  ||  R$${precoXtudo},00`
 }
-produtosIniciais()
+
 
 function cpfEcnpj() {
   var cpf = document.getElementById('cpf')
