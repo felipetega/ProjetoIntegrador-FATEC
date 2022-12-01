@@ -1,5 +1,5 @@
 body{
-    height: 100vh;
+    height: 100%;
     width: 99%;
     color: #2e2e2e;
     background-size: cover;
@@ -17,7 +17,7 @@ body{
     border-radius: 50%;
     overflow: hidden;
     border: 1px solid #f68e07;
-    margin-left: 500px;
+    margin-left: 730px;
 }
 
 #foto{
@@ -46,14 +46,14 @@ body{
 
 
 .alinhamento{
-  width: 400px;
+  width: 500px;
   margin: auto;
   padding: 8px;
   backdrop-filter: blur(15px);
   -webkit-backdrop-filter: blur(15px);
-  background-color: rgba(190, 190, 190, 0.1);
+  background-color: rgba(255, 255, 255, 0.383);
   border-radius: 20px;
-  border: 1px solid rgba(255, 255, 255, 0.125);
+  border: 1px solid rgb(116, 116, 116);
   border-radius: 20px;
   padding: 5%;
   text-align: center;
@@ -64,7 +64,8 @@ body{
     background-color: transparent;
     border-style: none none solid;
     border-image:none;
-    border-bottom: 1.5px solid rgb(226, 226, 226);
+    border-bottom: 1.5px outset rgb(139, 138, 138);
+    border-right: 1.5px outset rgb(139, 138, 138);
 }
 .container1 {
     width: 400px;
@@ -111,7 +112,7 @@ body{
   .form-group1 input {
     background-color: transparent;
     border: none;
-    border-bottom: 1.5px solid #e2e2e2;
+    border-bottom: 1.5px solid #131313;
     font-size: 18px;
     padding: 10px 0;
     display: block;
@@ -141,6 +142,9 @@ body{
     font-size: 14px;
     transform: translateY(0);
   }*/
+  label{
+    color: #000000;
+  }
   
   .submit1 {
     background: #ffffff;
