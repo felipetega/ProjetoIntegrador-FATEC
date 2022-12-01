@@ -7,7 +7,9 @@
     display: flex;
     align-items: center;
 }
-
+.img-size{
+    width: 100vw;
+}
 .nav-top {
     background: rgb(237,183,33) !important;
     background: linear-gradient(180deg, rgba(237,183,33,0.3981793400954131) 0%, rgba(255,255,255,1) 100%) !important; 
