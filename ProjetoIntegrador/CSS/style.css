@@ -17,9 +17,11 @@ body{
     border-radius: 50%;
     overflow: hidden;
     border: 1px solid #f68e07;
-    margin-left: 730px;
+    margin-left: 700px;
 }
-
+#car{
+  height: 100vh !important;
+}
 #foto{
     height: 120%;
     width: 100%;
@@ -65,7 +67,6 @@ body{
     border-style: none none solid;
     border-image:none;
     border-bottom: 1.5px outset rgb(139, 138, 138);
-    border-right: 1.5px outset rgb(139, 138, 138);
 }
 .container1 {
     width: 400px;
@@ -437,8 +438,8 @@ body {
 }
 
 .imgProduto{
-  width: 100%;
-  height: 65px;
+  width: 300px;
+  height: 150px;
 }
 
 .imgProduto img{
