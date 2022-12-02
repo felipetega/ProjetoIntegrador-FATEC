@@ -22,8 +22,8 @@
             <form method="post" onsubmit="sucesso(); return false;">
                 <div class="mb-3">
                     <label for="cep">CEP</label>
-                        <input
-                          type="text"
+                        <input placeholder="XXXXXX-XXX"
+                          type="text" 
                           class="form-control"
                           onkeypress="$(this).mask('00.000-000')"
                           required
@@ -35,30 +35,35 @@
                         type="text"
                         class="form-control"
                         required
+                        placeholder="Ex: São paulo"
                         >
                         <label>Cidade</label>
                         <input
                         type="text"
                         class="form-control"
                         required
+                        placeholder="Ex: Matão"
                         >
                         <label>Bairro</label>
                             <input
                             type="text"
                             class="form-control"
                             required
+                            placeholder="Ex: Adauto"
                         >
                         <label>Rua</label>
                         <input
                         type="text"
                         class="form-control"
                         required
+                        placeholder="Ex: Rua Prof Tbone"
                         >
                         <label>Número</label>
                         <input
                         type="number"
                         class="form-control"
                         required
+                        placeholder="Ex: 000"
                         >
                     </div>
                             <select name="estado" id="estado" >
@@ -75,13 +80,13 @@
                 <div id="campo-cartão">
                             <div class="mb-3">
                                 <label>Nome Cartão</label>
-                                <input placeholder="Ex: Douglas Tiosso"
+                                <input placeholder="Ex: Douglas Ribeiro"
                                 type="text"
                                 class="form-control"
                                 required
                                 >
                                 <label>Número Cartão</label>
-                                <input
+                                <input placeholder="XXXX-XXXX-XXXX-XXXX"
                                 type="text"
                                 class="form-control"
                                 onkeypress="$(this).mask('0000-0000-0000-0000')"
@@ -89,7 +94,7 @@
                                 minlength="19"
                               >
                                 <label>Número Segurança</label>
-                                <input
+                                <input placeholder="XXX"
                                 type="text"
                                 class="form-control"
                                 onkeypress="$(this).mask('000')"
