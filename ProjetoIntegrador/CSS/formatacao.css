@@ -18,7 +18,11 @@
     align-items: center;
     justify-content: center;
 }
-
+#zeca{
+    text-decoration: none;
+    font-weight: 700;
+    color: #2e2e2e;
+}
 .nav-container {
     padding-left: 1% !important; 
     padding-right: 1% !important;

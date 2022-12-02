@@ -1,94 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Rango Top (CPF)</title>
 
-    <link rel="stylesheet" href="CSS/style.css" />
-  </head>
-  <body>
-    <header>
-      <a href="1-login.html"
-        ><img src="img/logo-sem-fundo.png" alt="" style="height: 100px"
-      /></a>
-    </header>
-    <div class="container1">
-      <div class="form1">
-        <h1 class="title1">Criar Conta</h1>
-        <form method="post" onsubmit="sucesso(); return false;">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rango Top (CPF)</title>
+
+  <link rel="stylesheet" href="CSS/style.css" />
+</head>
+
+<body>
+  <header>
+    <a href="1-login.html"><img src="img/logo-sem-fundo.png" alt="" style="height: 100px" /></a>
+  </header>
+  <div class="container1">
+    <div class="form1">
+      <h1 class="title1">Criar Conta</h1>
+      <form method="post" onsubmit="sucesso(); return false;">
+        <div class="d">
           <div>
             <label>CPF</label>
-            <input
-              required
-              type="radio"
-              onclick="cpfEcnpj()"
-              id="pf"
-              name="documento"
-              value="CPF"
-            />
+            <input required type="radio" onclick="cpfEcnpj()" id="pf" name="documento" value="CPF">
           </div>
           <div>
             <label>CNPJ</label>
-            <input
-              required
-              onclick="cpfEcnpj()"
-              type="radio"
-              id="pj"
-              name="documento"
-              value="CNPJ"
-            />
+            <input required onclick="cpfEcnpj()" type="radio" id="pj" name="documento" value="CNPJ" />
           </div>
-          <div class="form-group1">
-            <input minlength="6" type="text" required /><label
-              >Nome Completo</label
-            >
-          </div>
-          <div class="form-group1">
-            <input minlength="6" type="password" required id="senha" /><label
-              >Senha</label
-            >
-          </div>
-          <div class="form-group1">
-            <input name="email" type="email" required /><label>Email</label>
-          </div>
-          <div class="form-group1">
-            <input
-              required
-              minlength="14"
-              type="text"
-              onkeypress="$(this).mask('(00) 0000-00009')"
-            /><label>Telefone</label>
-          </div>
-          <div id="cpf" class="form-group1">
-            <input
-              id="inputCPF"
-              minlength="14"
-              type="text"
-              onkeypress="$(this).mask('000.000.000-00');"
-            /><label>CPF</label>
-          </div>
-          <div id="cnpj" class="form-group1">
-            <input
-              id="inputCNPJ"
-              minlength="18"
-              type="text"
-              onkeypress="$(this).mask('00.000.000/0000-00')"
-            /><label>CNPJ</label>
-          </div>
-            <button class="submit1" type="submit">Criar conta</button>
-        </form>
-        <div class="row1">
-          <a href="1-login.html">
-            <p>Voltar</p>
-          </a>
         </div>
-        <p id="sucesso">Conta criada com sucesso</p>
+        <div class="form-group1">
+          <input minlength="6" type="text" required /><label>Nome Completo</label>
+        </div>
+        <div class="form-group1">
+          <input minlength="6" type="password" required id="senha" /><label>Senha</label>
+        </div>
+        <div class="form-group1">
+          <input name="email" type="email" required /><label>Email</label>
+        </div>
+        <div class="form-group1">
+          <input required minlength="14" type="text"
+            onkeypress="$(this).mask('(00) 0000-00009')" /><label>Telefone</label>
+        </div>
+        <div id="cpf" class="form-group1">
+          <input id="inputCPF" minlength="14" type="text"
+            onkeypress="$(this).mask('000.000.000-00');" /><label>CPF</label>
+        </div>
+        <div id="cnpj" class="form-group1">
+          <input id="inputCNPJ" minlength="18" type="text"
+            onkeypress="$(this).mask('00.000.000/0000-00')" /><label>CNPJ</label>
+        </div>
+        <button class="submit1" type="submit">Criar conta</button>
+      </form>
+      <div class="row1">
+        <a href="1.html">
+          <p>Voltar</p>
+        </a>
       </div>
+      <p id="sucesso">Conta criada com sucesso</p>
     </div>
-    <script src="JS/cliente.js"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
-  </body>
+  </div>
+  <script src="JS/cliente.js"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
+</body>
+
 </html>

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="CSS/style.css" />
+    <link rel="stylesheet" href="CSS/style.css">
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -11,7 +11,7 @@
 
     <title>Carrinho</title>
   </head>
-  <body>
+  <body onload="produtosIniciais()">
     <form method="post" onsubmit="sucesso(); return false;">
     <div class="container">
       <div id="produtosX" class="row">
@@ -29,7 +29,7 @@
               <div class="row">
                 <div class="col-3">
                   <div class="imgProduto">
-                    <img src="img/hotdog.jpg" alt="HotDog" />
+                    <img src="img/hotdog.jpg" alt="HotDog">
                   </div>
                 </div>
                 <div class="col-5">
@@ -99,7 +99,7 @@
               <div class="row">
                 <div class="col-3">
                   <div class="imgProduto">
-                    <img src="img/hotdog.jpg" alt="HotDog" />
+                    <img src="img/hotdog.jpg" alt="HotDog">
                   </div>
                 </div>
                 <div class="col-5">
@@ -180,7 +180,7 @@
                     onclick="endereco()"
                     name="tipoAtendimento"
                     value="entrega"
-                  />
+                  >
                 </div>
                 <div>
                   <label>Retirada</label>
@@ -190,7 +190,7 @@
                     type="radio"
                     name="tipoAtendimento"
                     value="retirada"
-                  />
+                  >
                 </div>
                 <div>
                   <label>Consumo Local</label>
@@ -200,21 +200,21 @@
                     onclick="endereco()"
                     name="tipoAtendimento"
                     value="local"
-                  />
+                  >
                 </div>
                 <div id="endereco">
                   <h2>Endereço</h2>
                   <div class="mb-3">
                     <label>Rua</label>
-                    <input type="text"  minlength="1" id="rua" class="form-control" />
+                    <input type="text"  minlength="1" id="rua" class="form-control">
                     <label>Estado</label>
                     <select class="form-control" name="estado" id="estado">
                       <option value="SP">SP</option>
                     </select>
                     <label>Cidade</label>
-                    <input class="form-control" type="text"  minlength="1" id="cidade" />
+                    <input class="form-control" type="text"  minlength="1" id="cidade">
                     <label>Número</label>
-                    <input class="form-control" type="number" id="numero" />
+                    <input class="form-control" type="number" id="numero">
                     <label>CEP</label>
                     <input
                       id="cep"
@@ -222,7 +222,7 @@
                       class="form-control"
                       onkeypress="$(this).mask('00.000-000')"
                       minlength="10"
-                    />
+                    >
                   </div>
                 </div>
               </div>
@@ -238,7 +238,7 @@
                     type="radio"
                     name="formaPagamento"
                     value="dinheiro"
-                  />
+                  >
                 </div>
                 <div>
                   <label>Cartão de Crédito</label>
@@ -248,7 +248,7 @@
                     type="radio"
                     name="formaPagamento"
                     value="cartao"
-                  />
+                  >
                 </div>
                 <div>
                   <label>PIX</label>
@@ -258,7 +258,7 @@
                     type="radio"
                     name="formaPagamento"
                     value="pix"
-                  />
+                  >
                 </div>
                 <div id="campoCartao">
                   <div class="mb-3">
@@ -268,7 +268,7 @@
                       type="text"
                       class="form-control"
                       minlength="1"
-                      />
+                      >
                       <label>Número Cartão</label>
                       <input
                       type="text"
@@ -276,7 +276,7 @@
                       onkeypress="$(this).mask('0000-0000-0000-0000')"
                       minlength="16"
                       id="numeroCartao"
-                    />
+                    >
                       <label>Número Segurança</label>
                       <input
                       type="text"
@@ -284,7 +284,7 @@
                       onkeypress="$(this).mask('000')"
                       minlength="3"
                       id="numeroSeguranca"
-                    />
+                    >
                       <label> Data de expiração:</label>
                       <select>
                           <option value='01'>Janeiro</option>

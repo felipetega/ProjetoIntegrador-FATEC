@@ -13,8 +13,8 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/img/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" href="/ProjetoIntegrador/node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/ProjetoIntegrador/node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="node_modules/bootstrap-icons/font/bootstrap-icons.css">
     <title>Top Burguer :: Produto</title>
     <style>
         .nav-top {
@@ -58,16 +58,16 @@
                     <div class="align-self-end">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a href="/cadastro.html" class="nav-link text-dark">Quero Me Cadastrar</a>
+                                <a href="/2-CNPJ-CPF.html" class="nav-link text-dark">Quero Me Cadastrar</a>
                             </li>
                             <li class="nav-item">
-                                <a href="/login.html" class="nav-link text-dark">Entrar</a>
+                                <a href="/1.html" class="nav-link text-dark">Entrar</a>
                             </li>
                             <li class="nav-item">
                                 <span class="badge rounded-pill bg-light text-danger position-absolute ms-4 mt-0">
                                     <small>2</small>
                                 </span>
-                                <a href="/carrinho.html" class="nav-link text-dark">
+                                <a href="/3-carrinho.html" class="nav-link text-dark">
                                     <i class="bi-cart" style="font-size:24px;"></i>
                                 </a>
                             </li>
@@ -81,10 +81,10 @@
             <div class="container">
                 <div class="row g-3">
                     <div class="col-12 col-sm-6">
-                        <img src="/ProjetoIntegrador/img/Lanches/x-costela.png" class="img-thumbnail" id="imgProduto">
+                        <img src="img/Lanches/x-costela.png" alt="Imagem exemplo de um lanche" class="img-thumbnail" id="imgProduto">
                     </div>
                     <div class="col-12 col-sm-6">
-                        <h1>X-costela</h1>
+                        <h1>X-tudo</h1>
                         <p>
                             Quis officia irure deserunt reprehenderit sunt non ut amet. Sunt veniam cillum aliqua. Elit
                             labore duis laboris reprehenderit laborum magna velit dolor veniam sint.
@@ -97,9 +97,12 @@
                             elit officia. Anim duis ullamco cillum nulla voluptate dolore velit ad Lorem adipisicing.
                         </p>
                         <p>
-                            <button class="btn btn-lg btn-outline-danger mb-3 mb-xl-0 me-2">
-                                <i class="bi-cart"></i> Adicionar ao Carrinho
-                            </button>
+                            <!-- <a href="3-carrinho.html">
+                                <button class="btn btn-lg btn-outline-danger mb-3 mb-xl-0 me-2">
+                                    <i class="bi-cart"></i> Adicionar ao Carrinho
+                                </button>
+                            </a> -->
+                            <button class="btn btn-lg btn-outline-danger mb-3 mb-xl-0 me-2" onclick="window.location.href = '3-carrinho.html'"><i class="bi-cart"></i> Adicionar ao Carrinho</button>
 
                         </p>
                     </div>
@@ -132,7 +135,7 @@
             </div>
         </footer>
     </div>
-    <script src="/ProjetoIntegrador/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
 
 </html>

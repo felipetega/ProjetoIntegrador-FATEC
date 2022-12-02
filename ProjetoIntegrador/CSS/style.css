@@ -75,7 +75,7 @@ body{
     -webkit-backdrop-filter: blur(15px);
     background-color: rgba(190, 190, 190, 0.1);
     border-radius: 20px;
-    border: 1px solid rgba(255, 255, 255, 0.125);
+    border: 1px solid rgb(116, 116, 116);
     border-radius: 20px;
     padding: 5%;
     text-align: center;
@@ -92,7 +92,7 @@ body{
   }
   .title1 {
     text-align: center;
-    color: #f68e07;
+    color: #000000;
     font-weight: 600;
   }
   
@@ -117,11 +117,11 @@ body{
     padding: 10px 0;
     display: block;
     width: 100%;
-    color:darkorange;
+    color:rgb(0, 0, 0);
   }
   
   .form-group1 label {
-    color: #f68e07;
+    color: #000000;
     font-size: 16px;
     font-weight: 1000;
     position: absolute;
@@ -147,21 +147,21 @@ body{
   }
   
   .submit1 {
-    background: #ffffff;
+    background: #ff0000;
     padding: 7px 0;
     outline: none;
     font-size: 18px;
     width: 100%;
     margin: 17px 0;
     cursor: pointer;
-    color: #ff0000;
+    color: #ffffff;
     border-radius: 8px;
     transition: 0.9s;
     border: 1px solid #2e2e2e;
   }
   .submit1:hover{
-    color: #fdfdfd;
-    background-color: #ff0000;
+    color: #ff0202;
+    background-color: #ffffff;
   }
   .aces1 {
     text-align: center;
@@ -169,7 +169,7 @@ body{
     font-weight: 600;
   }
   .row1 a {
-    color: #f68e07;
+    color: #000000;
     text-decoration: none;
   }
   
@@ -267,6 +267,7 @@ body {
 }
 #body-9{
   overflow: hidden;
+  height: 100vh;
 }
 .selecionar3 label{
   text-align: center;
@@ -472,4 +473,8 @@ body {
 
 .pixCPF, .pixFone, .pixEmail, .pixKey{
   display: none;
+}
+.d{
+  display: flex;
+  justify-content: center;
 }

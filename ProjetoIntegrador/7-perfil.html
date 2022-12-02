@@ -1,191 +1,240 @@
-<html lang="en"><head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="CSS/formatacao.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
-    <title>Rango TOP (perfil)</title>
-</head>
-
-<body class="body">
-
-    <!-- Nav-->
-    <header>
-        <nav class="navbar navbar-expand-lg navbar-light mb-3 nav-top ">
-            <div class="container">
-                <a class="navbar-brand" href="postagem.html" target="_blank"><img src="/ProjetoIntegrador/logo.png" style=" max-width:200px;max-height:150px"></a>
-                <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-expanded="false">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse">
-                    <ul class="navbar-nav flex-grow-1">
-
-
-                    </ul>
-                    <div class="align-self-end">
-                        <ul class="navbar-nav">
-                            <li class="nav-item mt-3">
-                                <form class="d-flex justify-self-center">
-                                    <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="CSS/formatacao.css">
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"
+            crossorigin="anonymous"
+        >
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+        <title>Rango TOP (perfil)</title>
+    </head>
+    <body class="body">
+        <!-- Nav-->
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light nav-top ">
+                <div class="container">
+                    <a class="navbar-brand" href="postagem.html" target="_blank">
+                        <img src="logo.png" alt="Imagem do logo" style=" max-width:200px;max-height:150px">
+                    </a>
+                    <button
+                        class="navbar-toggler collapsed"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse"
+                        aria-expanded="false"
+                    >
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse">
+                        <ul class="navbar-nav flex-grow-1"></ul>
+                        <div class="align-self-end">
+                            <ul class="navbar-nav">
+                                <li class="nav-item mt-3">
+                                    <form class="d-flex justify-self-center">
+                                        <input
+                                            class="form-control me-2"
+                                            type="search"
+                                            placeholder="Pesquisar"
+                                            aria-label="Search"
+                                        >
                                         <i class="bi bi-search mt-1" style="color: black;"></i>
-                                </form>
+                                    </form>
+                                </li>
+                                <li class="nav-item" style="padding: 5px 5px;">
+                                    <a href="6-feed.html" style="text-decoration: none; color: red;">
+                                        <i class="bi bi-house-door icons"></i>
+                                    </a>
+                                </li>
+                                <li class="nav-item" style="padding: 5px 5px;">
+                                    <a href="loja.html" style="text-decoration: none; color: rgb(0, 0, 0);">
+                                        <i class="bi bi-shop icons"></i>
+                                    </a>
+                                </li>
+                                <li class="nav-item" style="padding: 5px 5px;">
+                                    <a href="#" style="text-decoration: none; color: red;">
+                                        <i class="bi bi-camera icons"></i>
+                                    </a>
+                                </li>
+                                <li class="nav-item mt-1">
+                                    <a href="5-configuracao.html" style="text-decoration: none; color: rgb(0, 0, 0); padding: 5px;">
+                                        <i class="bi bi-gear icons"></i>
+                                    </a>
+                                </li>
+                                <li class="nav-item mt-1">
+                                    <a href="#" style="text-decoration: none; color: red; padding: 5px;">
+                                        <i class="bi bi-chat-dots icons"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <!-- Main-->
+        <main>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-md-8">
+                        <!-- Profile-->
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-7">
+                                    <img src="imagens/perfil.jpeg" alt="Imagem exemplo foto de perfil" class="img-profile align-self-center">
+                                </div>
+                                <div class="col">
+                                    <div class="row" style="padding-top: 20px; padding-bottom: 10px;">
+                                        <div class="col-8 col-lg-6">
+                                            <h2 class="username">zequinha_123</h2>
+                                        </div>
+                                        <div class="col col-lg-5">
+                                            <!-- <button type="button" class="btn btn-outline-secondary button-edit">
+                                                <a href="/ProjetoIntegrador-FATEC/ProjetoIntegrador/5-configuracao.html" style="text-decoration: none; color: white;">
+                                                    Editar perfil
+                                                </a>
+                                            </button> -->
+                                            <button class="btn btn-outline-secondary button-edit" onclick="window.location.href = '/ProjetoIntegrador-FATEC/ProjetoIntegrador/5-configuracao.html'">Editar Perfil</button>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="profile-datas">
+                                                <b>N</b> publicações
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="profile-datas">
+                                                <b>N</b> seguidores
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="profile-datas">
+                                                <b>N</b> seguindo
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h1 class="name">Zequinha da Semantica</h1>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <p class="profile-desc">FATECANO | Dev</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Line-->
+                        <hr
+                            style="margin: 0%;"
+                        >
+                        <!-- Nav-Feed-->
+                        <ul class="nav nav-tabs nav-feed" id="myTab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <a
+                                    class="nav-link active nav-link-1"
+                                    id="home-tab"
+                                    data-bs-toggle="tab"
+                                    href="#home"
+                                    role="tab"
+                                    aria-controls="home"
+                                    aria-selected="true"
+                                    style="text-decoration: none; color: red;"
+                                >
+                                    <i class="bi bi-grid-3x3"></i>
+                                    PUBLICAÇÕES
+                                </a>
                             </li>
-                            <li class="nav-item" style="padding: 5px 5px;">
-                                <a href="/ProjetoIntegrador/6-feed.html" style="text-decoration: none; color: red;">
-                                    <i class="bi bi-house-door icons"></i></a>
-                            </li>
-                            <li class="nav-item" style="padding: 5px 5px;">
-                                <a href="/ProjetoIntegrador/loja.html" style="text-decoration: none; color: rgb(0, 0, 0);">
-                                    <i class="bi bi-shop icons"></i></a>
-                            </li>
-                            
-                            <li class="nav-item" style="padding: 5px 5px;">
-                                <a href="./feed1.html" style="text-decoration: none; color: red;">
-                                    <i class="bi bi-camera icons"></i></a>
-                            </li>
-                            <li class="nav-item mt-1">
-                                <a href="./config.html" style="text-decoration: none; color: rgb(0, 0, 0); padding: 5px 5px;"><i class="bi bi-gear icons"></i></a>
-                            </li>
-                            <li class="nav-item mt-1">
-                                <a href="./config.html" style="text-decoration: none; color: red; padding: 5px 5px;">
-                                    <i class="bi bi-chat-dots icons"></i></a>
-
+                            <li class="nav-item" role="presentation">
+                                <a
+                                    class="nav-link nav-link-2"
+                                    id="profile-tab"
+                                    data-bs-toggle="tab"
+                                    href="#profile"
+                                    role="tab"
+                                    aria-controls="profile"
+                                    aria-selected="false"
+                                    style="color: red;"
+                                >
+                                    <i class="bi bi-file-person"></i> MARCADOS
+                                </a>
                             </li>
                         </ul>
+                        <!-- Card-Feed-->
+                        <div class="tab-content" id="myTabContent">
+                            <div
+                                class="tab-pane fade show active"
+                                id="home"
+                                role="tabpanel"
+                                aria-labelledby="home-tab"
+                            >
+                                <div class="row" style="padding-bottom: 25px;">
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img src="imagens/ft1.jpg" class="card-img-top" alt="...">
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img src="imagens/ft2.jpg" class="card-img-top" alt="...">
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img src="imagens/ft4.jpg" class="card-img-top" alt="...">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row" style="padding-bottom: 25px;">
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img src="imagens/ft5.jpg" class="card-img-top" alt="...">
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img src="imagens/ft6.jpg" class="card-img-top" alt="...">
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img src="imagens/ft8.jpg" class="card-img-top" alt="...">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row" style="padding-bottom: 25px;">
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img src="imagens/ft7.jpg" class="card-img-top" alt="...">
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="card"></div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="card"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="tab-pane fade"
+                                id="profile"
+                                role="tabpanel"
+                                aria-labelledby="profile-tab"
+                            ></div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </nav>
-    </header>
-
-    <!-- Main-->
-    <main>
-        <div class="container">
-            <div class="row justify-content-center">
-                
-                <div class="col-12 col-md-8">
-
-                    <!-- Profile-->
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-7">
-                                <img src="imagens/perfil.jpeg" class="img-profile align-self-center">
-                            </div>
-                            <div class="col">
-                                <div class="row" style="padding-top: 20px; padding-bottom: 10px;">
-                                    <div class="col-8 col-lg-6">
-                                        <h2 class="username">zequinha_123</h2>
-                                    </div>
-                                    <div class="col col-lg-5"><button type="button" class="btn btn-outline-secondary button-edit"><a href="./editar.html" style="text-decoration: none; color: white;"> Editar
-                                                perfil</a></button></div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-4">
-                                        <p class="profile-datas"><b>N</b> publicações</p>
-                                    </div>
-                                    <div class="col-4">
-                                        <p class="profile-datas"><b>N</b> seguidores</p>
-                                    </div>
-                                    <div class="col-4">
-                                        <p class="profile-datas"><b>N</b> seguindo</p>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-12">
-                                        <h1 class="name">Zequinha da Semantica</h1>
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-12">
-                                        <p class="profile-desc">FATECANO | Dev</p>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    <!-- Line-->
-                    <hr style="margin: 0%;" width="100%" size="5" color="#ff0000">
-
-                    <!-- Nav-Feed-->
-                    <ul class="nav nav-tabs nav-feed" id="myTab" role="tablist">
-                        <li class="nav-item" role="presentation">
-                            <a class="nav-link active nav-link-1" id="home-tab" data-bs-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true" style="text-decoration: none; color: red;"><i class="bi bi-grid-3x3"></i>
-                                PUBLICAÇÕES</a>
-                        </li>
-
-                        <li class="nav-item" role="presentation">
-                            <a class="nav-link nav-link-2" id="profile-tab" data-bs-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" style="color: red;"><i class="bi bi-file-person"></i> MARCADOS</a>
-                        </li>
-                    </ul>
-
-                    <!-- Card-Feed-->
-                    <div class="tab-content" id="myTabContent">
-                        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-                            <div class="row" style="padding-bottom: 25px;">
-                                <div class="col-4">
-                                    <div class="card">
-                                        <img src="imagens/ft1.jpg" class="card-img-top" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-4">
-                                    <div class="card">
-                                        <img src="imagens/ft2.jpg" class="card-img-top" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-4">
-                                    <div class="card">
-                                        <img src="imagens/ft4.jpg" class="card-img-top" alt="...">
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="row" style="padding-bottom: 25px;">
-                                <div class="col-4">
-                                    <div class="card">
-                                        <img src="imagens/ft5.jpg" class="card-img-top" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-4">
-                                    <div class="card">
-                                        <img src="imagens/ft6.jpg" class="card-img-top" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-4">
-                                    <div class="card">
-                                        <img src="imagens/ft8.jpg" class="card-img-top" alt="...">
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="row" style="padding-bottom: 25px;">
-                                <div class="col-4">
-                                    <div class="card">
-                                        <img src="imagens/ft7.jpg" class="card-img-top" alt="...">
-                                    </div>
-                                </div>
-                                <div class="col-4">
-                                    <div class="card">
-
-                                    </div>
-                                </div>
-                                <div class="col-4">
-                                    <div class="card">
-
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </main>
-
-
-
+        </main>
+        <!--
     <script type="text/javascript">
 
         var crl = document.getElementById('myCrl').getContext('2d');
@@ -219,13 +268,11 @@
         crl2.stroke();
 
     </script>
-
-
-    <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-
-<!-- Code injected by live-server -->
-<script>
+ -->
+        <!-- Option 1: Bootstrap Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+        <!-- Code injected by live-server -->
+        <script>
 	// <![CDATA[  <-- For SVG support
 	if ('WebSocket' in window) {
 		(function () {
@@ -261,11 +308,9 @@
 		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
 	}
 	// ]]>
-</script>
-
-
-<!-- Code injected by live-server -->
-<script>
+        </script>
+        <!-- Code injected by live-server -->
+        <script>
 	// <![CDATA[  <-- For SVG support
 	if ('WebSocket' in window) {
 		(function () {
@@ -301,6 +346,6 @@
 		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
 	}
 	// ]]>
-</script>
-</body>
+        </script>
+    </body>
 </html>

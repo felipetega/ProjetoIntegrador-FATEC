@@ -1,11 +1,11 @@
 body{
-    width: 100vh;
+    width: 80vh;
     overflow: hidden;
     display: grid;
     grid-template:
     "header header  header  " auto
     "header header  header  " auto
-    "nav    article aside   " 1fr
+    "nav    article aside   "
     "nav    footer  footer  " auto /
     auto    1fr     auto;
     /*width: 100vw;
@@ -28,17 +28,17 @@ body{
 }
 
 .scroll{
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%);
-  width: 100vw;
-  height: 90vh;
-  padding: 15px 2%;
-  overflow-y: scroll;
-  box-shadow: 0 0 5px solid rgba(0, 0, 0, 0.3);
-  background: rgb(237,183,33);
-  background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%); 
+  position: absolute !important;
+  left: 50% !important;
+  top: 50% !important;
+  transform: translate(-50%,-50%) !important;
+  width: 100vw !important;
+  height: 90vh !important;
+  padding: 15px 2% !important;
+  overflow-y: scroll !important;
+  box-shadow: 0 0 5px solid rgba(0, 0, 0, 0.3) !important;
+  background: rgb(237,183,33) !important;
+  background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%) !important; 
 }
 
 p{
@@ -54,10 +54,9 @@ p{
     
     article{
     grid-area: article;
-    background-color: rgb(242, 63, 63);
     width: 75%;
     height: 600px;
-    border: 2px solid white;
+    border: 2px solid rgb(192, 191, 191);
     padding: 10px;
     border-radius: 25px;
     margin-top: 25px;
@@ -93,9 +92,8 @@ p{
       body {
         width: 100vw;
         height: 100vh;
-        color: white;
+        color: rgb(0, 0, 0);
         background-size: cover;
-        background: rgb(242, 63, 63);
       }
      
       .container {
@@ -105,16 +103,16 @@ p{
         padding: 8px;
         backdrop-filter: blur(15px);
         -webkit-backdrop-filter: blur(15px);
-        background-color: rgba(190, 190, 190, 0.1);
+        background-color: rgba(112, 112, 112, 0.1);
         border-radius: 20px;
-        border: 1px solid white;
+        border: 1px solid rgb(145, 144, 144);
         border-radius: 20px;
         padding-right: 5%;
       }
 
       .title .subtitle{
         text-align: center;
-        color: #f68e07;
+        color: #000000;
         font-weight: 600;
       }
       
@@ -132,7 +130,7 @@ p{
       .form-group input {
         background-color: transparent;
         border: none;
-        border-bottom: 1.5px solid #e2e2e2;
+        border-bottom: 1.5px solid #000000;
         font-size: 18px;
         padding: 10px 0;
         display: block;
@@ -140,7 +138,7 @@ p{
       }
       
       .form-group label {
-        color: #e2e2e2;
+        color: #000000;
         font-size: 16px;
         font-weight: 100;
         position: absolute;
@@ -153,13 +151,13 @@ p{
       
       .form-group input:valid, 
       .form-group input:focus {
-        border-bottom-color: #e2e2e2;
+        border-bottom-color: #ff0000;
         outline: none;
       }
       
       .form-group input:valid + label,
       .form-group input:focus + label {
-        color: #e2e2e2;
+        color: #ff0000;
         font-size: 14px;
         transform: translateY(0);
       }
@@ -172,15 +170,15 @@ p{
         width: 100%;
         margin: 17px 0;
         cursor: pointer;
-        color: #f68e07;
+        color: #ffffff;
         border-radius: 8px;
         transition: 0.9s;
-        border: 1px solid #2e2e2e;
+        border: 1px solid #000000;
       }
 
       .submit:hover {
-        background: #f68e07;
-        color: #2e2e2e;
+        background: #fffefe;
+        color: #ff0000;
       }
       
       a {
@@ -188,11 +186,11 @@ p{
       }
       
       .row a {
-        color: #f68e07;
+        color: #ff0000;
       }
       
       a:hover {
-        color: #f68e07;
+        color: #0400ff;
       }
 
 .carousel-fade img{
@@ -203,7 +201,7 @@ p{
     border-radius: 25px;
 }
 
-.scroll{
+/* .scroll{
     width: 100%;
     height: 500px;
     background-color: #ccc;
@@ -211,4 +209,4 @@ p{
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-}
+} */
