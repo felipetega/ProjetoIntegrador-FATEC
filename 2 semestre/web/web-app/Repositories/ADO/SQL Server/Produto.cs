@@ -1,5 +1,7 @@
 ﻿using Microsoft.Data.SqlClient;
 using web_app.Models;
+using Microsoft.AspNetCore.Http;
+
 
 namespace web_app.Repositories.ADO.SQL_Server
 {
@@ -7,7 +9,7 @@ namespace web_app.Repositories.ADO.SQL_Server
     {
         public Produto() { }
 
-        public void add(Models.Produto produto)
+        public void add(Models.Produto produto, IFormFile imagem)
         {
             string connectionString = Configuration.getConnectionString();
             using (SqlConnection connection = new SqlConnection(connectionString))
@@ -17,15 +19,25 @@ namespace web_app.Repositories.ADO.SQL_Server
                 using (SqlCommand command = new SqlCommand())
                 {
                     command.Connection = connection;
-                    command.CommandText = "insert into Produto(nome, descricao, preco, urlImagem) values(@nome, @descricao, @preco, @urlImagem)";
+                    command.CommandText = "INSERT INTO Produto(nome, descricao, preco, imagem) VALUES (@nome, @descricao, @preco, @imagem)";
                     command.Parameters.Add(new SqlParameter("@nome", System.Data.SqlDbType.VarChar)).Value = produto.Nome;
                     command.Parameters.Add(new SqlParameter("@descricao", System.Data.SqlDbType.VarChar)).Value = produto.Descricao;
                     command.Parameters.Add(new SqlParameter("@preco", System.Data.SqlDbType.Decimal)).Value = produto.Preco;
-                    command.Parameters.Add(new SqlParameter("@urlImagem", System.Data.SqlDbType.VarChar)).Value = produto.urlImagem;
+                    command.Parameters.Add(new SqlParameter("@imagem", System.Data.SqlDbType.VarBinary)).Value = GetBytesFromFormFile(imagem);
                     command.ExecuteNonQuery();
                 }
             }
         }
+
+        private byte[] GetBytesFromFormFile(IFormFile file)
+        {
+            using (var memoryStream = new MemoryStream())
+            {
+                file.CopyTo(memoryStream);
+                return memoryStream.ToArray();
+            }
+        }
+
 
         public List<Models.Produto> get()
         {
@@ -38,7 +50,7 @@ namespace web_app.Repositories.ADO.SQL_Server
                 using (SqlCommand command = new SqlCommand())
                 {
                     command.Connection = connection;
-                    command.CommandText = "select id, nome, descricao, preco, urlImagem from produto";
+                    command.CommandText = "select id, nome, descricao, preco, imagem from produto";
                     SqlDataReader dr = command.ExecuteReader();
                     while (dr.Read())
                     {
@@ -47,7 +59,7 @@ namespace web_app.Repositories.ADO.SQL_Server
                         produto.Nome = (string)dr["nome"];
                         produto.Descricao = (string)dr["descricao"];
                         produto.Preco = (decimal)dr["preco"];
-                        produto.urlImagem = (string)dr["urlImagem"];
+                        produto.Imagem = (IFormFile)dr["imagem"];
                         produtos.Add(produto);
                     }
                 }

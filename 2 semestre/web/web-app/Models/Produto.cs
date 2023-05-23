@@ -6,7 +6,8 @@
         public string Nome { get; set; }
         public string Descricao { get; set; }
         public decimal Preco { get; set; }
-        public string urlImagem { get; set; }
+        //public string urlImagem { get; set; }
+        public IFormFile Imagem { get; set; }
 
         public Produto()
         {
@@ -14,7 +15,8 @@
             this.Nome = string.Empty;
             this.Descricao = string.Empty;
             this.Preco = 0;
-            this.urlImagem = string.Empty;
+            //this.urlImagem = string.Empty;
+            this.Imagem = null;
         }
     }
 }

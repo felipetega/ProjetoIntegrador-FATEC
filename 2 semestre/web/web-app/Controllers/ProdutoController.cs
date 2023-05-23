@@ -10,33 +10,47 @@ namespace web_app.Controllers
         {
             repository = new Repositories.ADO.SQL_Server.Produto();
         }
-        // GET: ProdutosController
+        // GET: ProdutoController
         public ActionResult Index()
         {
             return View(repository.get());
         }
 
-        // GET: CarrosController/Details/5
+        // GET: ProdutoController/Details/5
         public ActionResult Details(int id)
         {
             return View();
         }
 
-        // GET: CarrosController/Create
+        // GET: ProdutoController/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: CarrosController/Create
+        // POST: ProdutoController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Models.Produto produto)
+        public ActionResult Create(Models.Produto produto, IFormFile imagem)
         {
             try
             {
-                repository.add(produto);
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    if (imagem != null && imagem.Length > 0)
+                    {
+                        using (var memoryStream = new MemoryStream())
+                        {
+                            imagem.CopyTo(memoryStream);
+                            produto.Imagem = memoryStream.ToArray();
+                        }
+                    }
+
+                    repository.add(produto);
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return View(produto);
             }
             catch
             {
@@ -44,13 +58,14 @@ namespace web_app.Controllers
             }
         }
 
-        // GET: CarrosController/Edit/5
+
+        // GET: ProdutoController/Edit/5
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: CarrosController/Edit/5
+        // POST: ProdutoController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
@@ -65,13 +80,13 @@ namespace web_app.Controllers
             }
         }
 
-        // GET: CarrosController/Delete/5
+        // GET: ProdutoController/Delete/5
         public ActionResult Delete(int id)
         {
             repository.delete(id);
             return RedirectToAction(nameof(Index));
         }
 
-        // POST: CarrosController/Delete/5
+        // POST: ProdutoController/Delete/5
     }
 }
