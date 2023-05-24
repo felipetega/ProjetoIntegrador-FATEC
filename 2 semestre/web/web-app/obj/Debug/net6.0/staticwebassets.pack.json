@@ -1,247 +1,1787 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\web-app.bundle.scp.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\web-app.bundle.scp.css",
       "PackagePath": "staticwebassets\\web-app.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\1.png",
+      "PackagePath": "staticwebassets\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\License.pdf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\License.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\README.txt",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\css\\mdb.dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\css\\mdb.dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\css\\mdb.dark.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\css\\mdb.dark.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\css\\mdb.dark.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\css\\mdb.dark.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\css\\mdb.dark.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\css\\mdb.dark.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\css\\mdb.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\css\\mdb.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\css\\mdb.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\css\\mdb.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\css\\mdb.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\css\\mdb.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\css\\mdb.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\css\\mdb.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\img\\mdb-favicon.ico",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\img\\mdb-favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\js\\mdb.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\js\\mdb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\js\\mdb.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\js\\mdb.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\alert.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\button.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\modal.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\popover.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\tab.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\toast.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\mdb-prefix\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\base-component.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\offcanvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\bootstrap\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\input.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\input.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\range.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\range.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\ripple.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\ripple.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\free\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\free\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb.free.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb.free.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\dom\\data.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\dom\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\dom\\event-handler.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\dom\\manipulator.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\click-rail.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\click-rail.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\drag-thumb.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\drag-thumb.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\keyboard.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\keyboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\mouse-wheel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\mouse-wheel.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\touch.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\handlers\\touch.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\class-names.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\class-names.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\css.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\css.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\dom.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\dom.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\event-manager.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\event-manager.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\util.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\lib\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\process-scroll-diff.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\process-scroll-diff.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\update-geometry.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\perfect-scrollbar\\update-geometry.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\focusTrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\focusTrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\keycodes.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\keycodes.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\stack.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\stack.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\touch\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\touch\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\touch\\swipe.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\touch\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\touch\\touchUtil.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\js\\mdb\\util\\touch\\touchUtil.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap-rtl-fix\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_colors.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_deprecated.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_deprecated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_flag.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_flag.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_ripple.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_scrollspy.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_scrollspy.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_shadows.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-file.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-file.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\mixins\\_ripple.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\mixins\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\free\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\free\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\bootstrap\\mdn\\src\\scss\\mdb.free.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\mdn\\src\\scss\\mdb.free.scss"
+    },
+    {
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\2 semestre-20230523T125643Z-001\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
