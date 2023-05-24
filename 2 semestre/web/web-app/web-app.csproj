@@ -8,7 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\Image\**" />
+    <Content Remove="Views\Image\**" />
+    <EmbeddedResource Remove="Views\Image\**" />
+    <None Remove="Views\Image\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="wwwroot\imgs\1.png" />
+    <Content Remove="wwwroot\imgs\Postagem\1.png" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,12 +25,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Image\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\1.png" />
-    <None Include="wwwroot\imgs\1.png" />
+    <None Include="wwwroot\imgs\Postagem\1.png" />
+    <None Include="wwwroot\imgs\Produto\1.png" />
   </ItemGroup>
 
 </Project>

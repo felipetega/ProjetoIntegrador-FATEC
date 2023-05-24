@@ -71,5 +71,27 @@ namespace web_app.Repositories.ADO.SQL_Server
                 }
             }
         }
+
+        public void edit(Models.Produto produto)
+        {
+            {
+                string connectionString = Configuration.getConnectionString();
+
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    connection.Open();
+                    using (SqlCommand command = new SqlCommand())
+                    {
+                        command.Connection = connection;
+                        command.CommandText = "insert into Produto(nome, descricao, preco, urlImagem) values(@nome, @descricao, @preco, @urlImagem)";
+                        command.Parameters.Add(new SqlParameter("@nome", System.Data.SqlDbType.VarChar)).Value = produto.Nome;
+                        command.Parameters.Add(new SqlParameter("@descricao", System.Data.SqlDbType.VarChar)).Value = produto.Descricao;
+                        command.Parameters.Add(new SqlParameter("@preco", System.Data.SqlDbType.Decimal)).Value = produto.Preco;
+                        command.Parameters.Add(new SqlParameter("@urlImagem", System.Data.SqlDbType.VarChar)).Value = produto.urlImagem;
+                        command.ExecuteNonQuery();
+                    }
+                }
+            }
+        }
     }
 }
