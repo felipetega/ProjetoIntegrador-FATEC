@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2971392221038\\Desktop\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\web-app.csproj": {}
+    "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\web-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2971392221038\\Desktop\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\web-app.csproj": {
+    "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\web-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2971392221038\\Desktop\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\web-app.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\web-app.csproj",
         "projectName": "web-app",
-        "projectPath": "C:\\Users\\2971392221038\\Desktop\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\web-app.csproj",
-        "packagesPath": "C:\\Users\\2971392221038\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2971392221038\\Desktop\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\obj\\",
+        "projectPath": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\web-app.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe\\Desktop\\PROJETOS\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\2971392221038\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

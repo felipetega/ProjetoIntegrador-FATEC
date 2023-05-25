@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <Content Remove="wwwroot\imgs\1.png" />
+    <Content Remove="wwwroot\imgs\icons\Home.svg" />
     <Content Remove="wwwroot\imgs\Postagem\1.png" />
   </ItemGroup>
 

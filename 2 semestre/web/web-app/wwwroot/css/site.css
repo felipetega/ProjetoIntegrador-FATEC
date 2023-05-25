@@ -14,5 +14,8 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    scrollbar-width: 0;
+    background: rgb(237,183,33);
+    background: linear-gradient(0deg, rgba(237,183,33,0.5466387238489145) 0%, rgba(255,255,255,1) 100%);
 }
