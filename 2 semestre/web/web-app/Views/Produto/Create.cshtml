@@ -8,8 +8,8 @@
 
 <h4>Produto</h4>
 <hr />
-<div class="row">
-    <div class="col-md-4">
+<div class="row g-3">
+    <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -23,6 +23,11 @@
                 <span asp-validation-for="Nome" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="urlImagem" class="control-label"></label>
+                <input asp-for="urlImagem" class="form-control" type="file" />
+                <span asp-validation-for="urlImagem" class="text-danger img-fluid"></span>
+            </div>
+            <div class="form-group">
                 <label asp-for="Descricao" class="control-label"></label>
                 <input asp-for="Descricao" class="form-control" />
                 <span asp-validation-for="Descricao" class="text-danger"></span>
@@ -32,11 +37,7 @@
                 <input asp-for="Preco" class="form-control" />
                 <span asp-validation-for="Preco" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="urlImagem" class="control-label"></label>
-                <input asp-for="urlImagem" class="form-control" type="file" />
-                <span asp-validation-for="urlImagem" class="text-danger"></span>
-            </div>
+            
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>

@@ -9,7 +9,7 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+@*<table class="table">
     <thead>
         <tr>
             <th>
@@ -30,30 +30,33 @@
             <th></th>
         </tr>
     </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Id)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Descricao)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Preco)
-            </td>
-            <td>
-                    <img src="./imgs/Produto/@item.urlImagem" alt="Imagem" />
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { id=item.Id })
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+    <tbody>*@
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+        @foreach (var item in Model)
+        {
+            <div class="col">
+                <div class="card text-center bg-light">
+                    <img src="./imgs/Produto/@item.urlImagem" alt="@item.Nome" class="card-img" />
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold">
+                            @Html.DisplayFor(modelItem => item.Nome)
+                        </h5>
+                        <p class="card-body truncar-3l fw-bold border-top border-bottom">
+                            @Html.DisplayFor(modelItem => item.Descricao)
+                        </p>
+                    </div>
+                    <div class="card-text fw-bold">
+                        @Html.DisplayFor(modelItem => item.Preco)
+                    </div>
+                    <button type="button" class="btn-outline-danger">
+                        <img src="~/imgs/icons/cart.svg" />
+                    </button>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+

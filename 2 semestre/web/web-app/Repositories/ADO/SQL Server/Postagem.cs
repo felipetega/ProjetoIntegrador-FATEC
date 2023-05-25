@@ -38,7 +38,7 @@ namespace web_app.Repositories.ADO.SQL_Server
                 using (SqlCommand command = new SqlCommand())
                 {
                     command.Connection = connection;
-                    command.CommandText = "select id, usuario, descricao, urlImagem, curtidas from Postagem";
+                    command.CommandText = "select id, usuario, descricao, urlImagem, curtidas from postagem";
                     SqlDataReader dr = command.ExecuteReader();
                     while (dr.Read())
                     {
