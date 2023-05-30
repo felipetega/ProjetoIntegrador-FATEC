@@ -5,10 +5,15 @@ namespace web_app.Controllers
 {
     public class LoginController : Controller
     {
+        private readonly Repositories.ADO.SQL_Server.Login repository;
+        public LoginController()
+        {
+            repository = new Repositories.ADO.SQL_Server.Login();
+        }
         // GET: LoginController
         public ActionResult Index()
         {
-            return View();
+            return View(repository.get());
         }
 
         // GET: LoginController/Details/5
@@ -26,10 +31,11 @@ namespace web_app.Controllers
         // POST: LoginController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult Create(Models.Login login)
         {
             try
             {
+                repository.add(login);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -62,22 +68,10 @@ namespace web_app.Controllers
         // GET: LoginController/Delete/5
         public ActionResult Delete(int id)
         {
-            return View();
+            repository.delete(id);
+            return RedirectToAction(nameof(Index));
         }
 
         // POST: LoginController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
     }
 }
