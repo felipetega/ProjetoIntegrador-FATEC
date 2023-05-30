@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0EEnhQfdv1T2sx4MSBj2fDYCNQJnK3bDaeHXmtFIW3U=",
+  "Hash": "g1ZIovvK1V3gx+WmRPsuHuH5AW1qMrftOutvyFQRbYc=",
   "Source": "web-app",
   "BasePath": "_content/web-app",
   "Mode": "Default",
@@ -185,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imgs\\icons\\gear.svg"
+    },
+    {
+      "Identity": "C:\\Users\\2971392221038\\Desktop\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\imgs\\icons\\github.svg",
+      "SourceId": "web-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2971392221038\\Desktop\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\",
+      "BasePath": "_content/web-app",
+      "RelativePath": "imgs/icons/github.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\icons\\github.svg"
     },
     {
       "Identity": "C:\\Users\\2971392221038\\Desktop\\ProjetoIntegrador-FATEC\\2 semestre\\web\\web-app\\wwwroot\\imgs\\icons\\google.svg",
