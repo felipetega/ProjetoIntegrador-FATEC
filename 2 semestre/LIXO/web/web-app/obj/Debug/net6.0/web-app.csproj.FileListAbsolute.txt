@@ -2192,3 +2192,14 @@ C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\web\web-app\ob
 C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\web\web-app\obj\Debug\net6.0\web-app.dll
 C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\web\web-app\obj\Debug\net6.0\refint\web-app.dll
 C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\web\web-app\obj\Debug\net6.0\web-app.pdb
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.csproj.AssemblyReference.cache
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.AssemblyInfoInputs.cache
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.AssemblyInfo.cs
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.csproj.CoreCompileInputs.cache
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.RazorAssemblyInfo.cache
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.RazorAssemblyInfo.cs
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.dll
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\refint\web-app.dll
+C:\Users\2971392221022\Desktop\ProjetoIntegrador-FATEC\2 semestre\LIXO\web\web-app\obj\Debug\net6.0\web-app.pdb

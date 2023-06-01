@@ -32,6 +32,21 @@ namespace web_app.Repositories.ADO.SQLServer
 
             return result;
         }
+        public void add(Models.Login login)
+        {
+            using (SqlConnection connection = new SqlConnection(this.connectionString))
+            {
+                connection.Open();
 
+                using (SqlCommand command = new SqlCommand())
+                {
+                    command.Connection = connection;
+                    command.CommandText = "insert into login(usuario, senha) values(@usuario, @senha)";
+                    command.Parameters.Add(new SqlParameter("@usuario", System.Data.SqlDbType.VarChar)).Value = login.Usuario;
+                    command.Parameters.Add(new SqlParameter("@senha", System.Data.SqlDbType.VarChar)).Value = login.Senha;
+                    command.ExecuteNonQuery();
+                }
+            }
+        }
     }
 }

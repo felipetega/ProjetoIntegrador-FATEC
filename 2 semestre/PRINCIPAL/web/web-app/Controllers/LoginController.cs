@@ -37,5 +37,28 @@ namespace web_app.Controllers
             this.sessao.delete();
             return RedirectToAction("Login", "Login");
         }
+
+        // GET: LoginController/Create
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: LoginController/Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(Models.Login login)
+        {
+            try
+            {
+                this.repository.add(login);
+
+                return RedirectToAction("Login", "Login");
+            }
+            catch
+            {
+                return View();
+            }
+        }
     }
 }
