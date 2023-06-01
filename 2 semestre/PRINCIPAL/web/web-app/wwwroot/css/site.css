@@ -1,18 +1,33 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    scrollbar-width: 0;
+    background: rgb(254, 236, 186);
+}
+
+    body::-webkit-scrollbar {
+        display: none;
+    }
+
+
+.content {
+    padding-bottom: 100vh; 
+}
+
+
+body div ul li {
+    padding: 10px;
 }

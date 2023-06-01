@@ -53,7 +53,7 @@
                         <img src="~/imgs/icons/cart.svg" />
                     </button>
                 </div>
-                @Html.ActionLink("Edit", "Edit", new {/*id=item.PrimaryKey*/})
+                @Html.ActionLink("Edit", "Edit", new {id=item.Id})
                 @Html.ActionLink("Excluir", "Delete", new {id=item.Id})
             </div>
         }

@@ -1,12 +1,12 @@
 ﻿@model IEnumerable<web_app.Models.Postagem>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Nova Postagem</a>
 </p>
 <div class="container">
     <div class="container-fluid">
-@foreach (var item in Model) 
-{
+        @foreach (var item in Model)
+        {
             <div class="card text-center bg-light mb-5">
                 <div class="row">
                     <div class="col">
@@ -17,24 +17,26 @@
                 </div>
                 <div class="row">
                     <div class="col">
-                        <img src="~/imgs/Postagem/@item.UrlImagem" alt="Imagem" />
+                        <img src="~/imgs/Postagem/@item.UrlImagem" alt="Imagem" style="max-height:400px; max-width:400px; padding-bottom:20px;" />
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col">
-                        <div class="card-text fw-bold">
-                            @Html.DisplayFor(modelItem => item.Curtidas)
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col">
-                        <p class="card-body truncar-3l fw-bold border-top border-bottom">
-                            @Html.DisplayFor(modelItem => item.Descricao)
-                        </p>
+                <div class="card-body">
+                    <h5 class="card-title fw-bold">
+                        @Html.DisplayFor(modelItem => item.Usuario)
+                    </h5>
+                    <p>
+                        @Html.DisplayFor(modelItem => item.Descricao)
+                    </p>
+                    <div class="card-text fw-bold">
+                        <img src="~/imgs/icons/like.svg" />
+                        @Html.DisplayFor(modelItem => item.Curtidas)
                     </div>
                 </div>
             </div>
-}
+            @* @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }," ?|||| ")
+        ;*@
+            @Html.ActionLink("Excluir", "Delete", new { id = item.Id })
+            ;
+        }
     </div>
 </div>
