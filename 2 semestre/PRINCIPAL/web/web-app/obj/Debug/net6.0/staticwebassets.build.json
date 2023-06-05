@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fNPf+CWe4CDn2LMiKYZJEK6z+aOmUidK7E/pDDIH1T4=",
+  "Hash": "0NOqALLYE7yDw7EcF9jqN0iQKQpRXuZiA3ViUTMccJI=",
   "Source": "web-app",
   "BasePath": "_content/web-app",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\2971392221038\\Desktop\\USAR ESSE\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\AdicionarPostagem.svg",
+      "SourceId": "web-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2971392221038\\Desktop\\USAR ESSE\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\",
+      "BasePath": "_content/web-app",
+      "RelativePath": "imgs/icons/AdicionarPostagem.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\icons\\AdicionarPostagem.svg"
     },
     {
       "Identity": "C:\\Users\\2971392221038\\Desktop\\USAR ESSE\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\camera.svg",

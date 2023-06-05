@@ -8,6 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\Postagem\Edit.cs" />
+    <Compile Remove="Views\Postagem\HomeController.cs" />
+    <Compile Remove="Views\Postagem\ValuesController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Postagem\Edit.razor" />
+    <Content Remove="wwwroot\imgs\icons\AddFoto.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
   </ItemGroup>
