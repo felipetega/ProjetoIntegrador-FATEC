@@ -26,10 +26,10 @@
                 <label asp-for="Usuario" class="control-label"></label>
                 <input asp-for="Usuario" class="form-control" required />
                 <div class="valid-feedback">
-                    Looks good!
+                    Parece bom!
                 </div>
                 <div class="invalid-feedback">
-                    Please enter a valid username.
+                   Por favor entre com um nome de usuario valido!
                 </div>
                 <span asp-validation-for="Usuario" class="text-danger"></span>
             </div>
@@ -37,20 +37,21 @@
                 <label asp-for="Senha" class="control-label"></label>
                 <input asp-for="Senha" class="form-control" required />
                 <div class="valid-feedback">
-                    Looks good!
+                    Parece bom!
                 </div>
                 <div class="invalid-feedback">
-                    Please enter a valid password.
+                    Por favor, entre com uma senha valida!
                 </div>
                 <span asp-validation-for="Senha" class="text-danger"></span>
             </div>
-            <div class="form-group">
+            <div class="form-group mt-3">
                 <input type="submit" value="Logar" class="btn btn-primary" />
+                <a class="btn btn-primary" asp-area="" asp-controller="Login" asp-action="Create">Criar conta</a>
             </div>
         </form>
-        <div class="mt-3">
-            <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Create">Criar conta</a>
-        </div>
+       @* <div class="mt-3">
+            <a class="btn btn-primary" asp-area="" asp-controller="Login" asp-action="Create">Criar conta</a>
+        </div>*@
     </div>
 
 

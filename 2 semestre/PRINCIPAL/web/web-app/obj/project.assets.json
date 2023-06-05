@@ -9708,11 +9708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2971392221038\\Desktop\\Nova pasta (2)\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\web-app.csproj",
+      "projectUniqueName": "C:\\Users\\2971392221038\\Desktop\\USAR ESSE\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\web-app.csproj",
       "projectName": "web-app",
-      "projectPath": "C:\\Users\\2971392221038\\Desktop\\Nova pasta (2)\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\web-app.csproj",
+      "projectPath": "C:\\Users\\2971392221038\\Desktop\\USAR ESSE\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\web-app.csproj",
       "packagesPath": "C:\\Users\\2971392221038\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2971392221038\\Desktop\\Nova pasta (2)\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\obj\\",
+      "outputPath": "C:\\Users\\2971392221038\\Desktop\\USAR ESSE\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

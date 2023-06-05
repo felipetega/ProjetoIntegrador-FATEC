@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KeBARfLkbcQjMxqypqhJ8GZs0+BUbd2eYGkjWDlCSkBYeOgwEx/2P8H5Mx+CRxjdHS/t7vMccLkrlosODmThRQ==",
+  "dgSpecHash": "wH+pFan18Hjz6hdH9li3J4U52q5xoid2UjV2S+fCZPgt+r2qSYJgd64wdM0TTHjs5sUYuyxQdb58Rya7WwcvVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2971392221038\\Desktop\\Nova pasta (2)\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\web-app.csproj",
+  "projectFilePath": "C:\\Users\\2971392221038\\Desktop\\USAR ESSE\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\web-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2971392221038\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\2971392221038\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
