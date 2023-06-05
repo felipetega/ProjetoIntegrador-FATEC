@@ -17,7 +17,7 @@ namespace web_app.Controllers
             
         public ActionResult Login()
         {
-            return this.sessao.get() == null ? View() : RedirectToAction("Index", "Home");
+            return this.sessao.get() == null ? View() : RedirectToAction("Index", "Postagem");
         }
 
         [HttpPost]
@@ -26,7 +26,7 @@ namespace web_app.Controllers
             if (this.repository.check(login))
             {
                 this.sessao.add(login);
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Index", "Postagem");
             }
             
             return View();
