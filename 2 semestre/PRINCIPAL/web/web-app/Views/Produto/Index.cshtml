@@ -37,7 +37,7 @@
         {
             <div class="col">
                 <div class="card text-center bg-light">
-                    <img src="~/imgs/Produto/@item.urlImagem" alt="@item.Nome" class="card-img" />
+                    <img src="~/imgs/Produto/@item.urlImagem" alt="@item.Nome" class="card-img" style="width:299px; height:220px;" />
                     <div class="card-body">
                         <h5 class="card-title fw-bold">
                             @Html.DisplayFor(modelItem => item.Nome)
@@ -50,7 +50,7 @@
                         <p>R$ @Html.DisplayFor(modelItem => item.Preco)</p>
                     </div>
                     <button type="button" class="btn-outline-danger">
-                        <img src="~/imgs/icons/cart.svg" />
+                        <img src="~/imgs/icons/cart.svg"/>
                     </button>
                 </div>
                 @Html.ActionLink("Edit", "Edit", new {id=item.Id})
