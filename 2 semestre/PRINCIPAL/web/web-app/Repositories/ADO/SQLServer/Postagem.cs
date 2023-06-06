@@ -40,7 +40,7 @@ namespace web_app.Repositories.ADO.SQL_Server
                 using (SqlCommand command = new SqlCommand())
                 {
                     command.Connection = connection;
-                    command.CommandText = "select id, usuario, descricao, urlImagem, curtidas from postagem";
+                    command.CommandText = "select id, usuario, descricao, urlImagem, curtidas from postagem order by id desc";
                     SqlDataReader dr = command.ExecuteReader();
                     while (dr.Read())
                     {

@@ -23,8 +23,8 @@
             <form asp-action="Create" class="needs-validation" novalidate>
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-group">
-                    <label asp-for="Usuario" class="control-label"></label>
-                    <input asp-for="Usuario" class="form-control" required />
+                    <label asp-for="Usuario" class="control-label">Email</label>
+                    <input asp-for="Usuario" class="form-control" required style="width:300px;" />
                     <div class="valid-feedback">
                         Looks good!
                     </div>
@@ -34,8 +34,8 @@
                     <span asp-validation-for="Usuario" class="text-danger"></span>
                 </div>
                 <div class="form-group">
-                    <label asp-for="Senha" class="control-label"></label>
-                    <input asp-for="Senha" class="form-control" required />
+                    <label asp-for="Senha" class="control-label" ></label>
+                    <input asp-for="Senha" class="form-control" required style="width:300px;" />
                     <div class="valid-feedback">
                         Looks good!
                     </div>
@@ -44,7 +44,7 @@
                     </div>
                     <span asp-validation-for="Senha" class="text-danger"></span>
                 </div>
-                <div class="form-group">
+                <div class="form-group m-3">
                     <input type="submit" value="Create" class="btn btn-primary" />
                 </div>
             </form>
