@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/web_app.styles.css" asp-append-version="true" />
+    
 </head>
 <body>
     <div class="container d-flex align-items-center justify-content-around " >
@@ -23,7 +24,7 @@
             <form asp-action="Login" class="needs-validation" novalidate>
                 <div asp-validation-summary="ModelOnly" class="text-danger" ></div>
                     <div class="form-group" style="width:300px;">
-                        <label asp-for="Usuario" class="control-label"></label>
+                        <label asp-for="Usuario" class="control-label">Email</label>
                         <input asp-for="Usuario" class="form-control" required />
                         <div class="valid-feedback">
                             Parece bom!
@@ -35,7 +36,9 @@
                     </div>
                     <div class="form-group">
                         <label asp-for="Senha" class="control-label"></label>
-                        <input asp-for="Senha" class="form-control" required />
+                        <input type="password" id="senha" class="form-control" required />
+                        @*<input asp-for="Senha" class="form-control" id="senha" required />*@
+                    <input type="checkbox" onclick="mostrarOcultarSenha()" /> Mostrar senha
                         <div class="valid-feedback">
                             Parece bom!
                         </div>
@@ -56,7 +59,7 @@
         </div>*@
     </div>
 
-
+    <script type="text/javascript" src="/js/site.js"></script>
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
