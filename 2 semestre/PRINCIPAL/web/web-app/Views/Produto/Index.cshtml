@@ -7,7 +7,7 @@
 <h1>Zequinha's Lanches</h1>
 
 <p>
-    <a asp-action="Create">Novo Produto</a>
+    <a asp-action="Create"><button>Novo Produto</button></a>
 </p>
 @*<table class="table">
     <thead>
@@ -37,7 +37,7 @@
         {
             <div class="col">
                 <div class="card text-center bg-light">
-                    <img src="~/imgs/Produto/@item.urlImagem" alt="@item.Nome" class="card-img" style="width:299px; height:220px;" />
+                    <img src="~/imgs/Produto/@item.urlImagem" alt="@item.Nome" class="card-img" style="width:auto; height:auto;;" />
                     <div class="card-body">
                         <h5 class="card-title fw-bold">
                             @Html.DisplayFor(modelItem => item.Nome)
@@ -53,8 +53,8 @@
                         <img src="~/imgs/icons/cart.svg"/>
                     </button>
                 </div>
-                @Html.ActionLink("Edit", "Edit", new {id=item.Id})
-                @Html.ActionLink("Excluir", "Delete", new {id=item.Id})
+                <button>@Html.ActionLink("Editar", "Edit", new {id=item.Id}, new {style = "text-decoration: none"})</button>
+                <button>@Html.ActionLink("Excluir", "Delete", new {id=item.Id},new {style = "text-decoration: none"})</button>
             </div>
         }
     </div>

@@ -2,6 +2,12 @@ html {
     font-size: 14px;
 }
 
+.footer text-muted {
+    text-align: center;
+    font-size: 23px;
+    color: black;
+}
+
 @media (min-width: 768px) {
     html {
         font-size: 16px;
