@@ -1,14 +1,24 @@
 ﻿@model IEnumerable<web_app.Models.Produto>
-
+@using Newtonsoft.Json
 @{
     ViewData["Title"] = "Zequinha's Lanches";
+    if (Context.Session.GetString("login") != null)
+    {
+        var valorSessao = Context.Session.GetString("login");
+        var login = JsonConvert.DeserializeObject<Login>(valorSessao);
+        int id = login.Id;
+        ViewBag.id = id;
+    }
 }
 
 <h1>Zequinha's Lanches</h1>
 
-<p>
+@if (ViewBag.id == 1)
+{
+    <p>
     <a asp-action="Create"><button>Novo Produto</button></a>
 </p>
+}
 @*<table class="table">
     <thead>
         <tr>
@@ -53,8 +63,10 @@
                         <img src="~/imgs/icons/cart.svg"/>
                     </button>
                 </div>
+                @if (ViewBag.id == 1){
                 <button>@Html.ActionLink("Editar", "Edit", new {id=item.Id}, new {style = "text-decoration: none"})</button>
                 <button>@Html.ActionLink("Excluir", "Delete", new {id=item.Id},new {style = "text-decoration: none"})</button>
+                }
             </div>
         }
     </div>

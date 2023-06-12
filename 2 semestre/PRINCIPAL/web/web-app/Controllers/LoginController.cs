@@ -25,7 +25,7 @@ namespace web_app.Controllers
         {
             if (this.repository.check(login))
             {
-                this.sessao.add(login);
+                this.sessao.add(this.repository.pegarId(login));
                 return RedirectToAction("Index", "Postagem");
             }
             

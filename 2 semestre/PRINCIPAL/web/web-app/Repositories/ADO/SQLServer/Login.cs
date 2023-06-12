@@ -1,4 +1,6 @@
 ﻿using Microsoft.Data.SqlClient;
+using Microsoft.Extensions.Logging;
+using web_app.Models;
 
 namespace web_app.Repositories.ADO.SQLServer
 {
@@ -32,6 +34,33 @@ namespace web_app.Repositories.ADO.SQLServer
 
             return result;
         }
+
+        public Models.Login pegarId(Models.Login loginR)
+        {
+            Models.Login login = new Models.Login();
+
+            using (SqlConnection connection = new SqlConnection(this.connectionString))
+            {
+                connection.Open();
+
+                using (SqlCommand command = new SqlCommand())
+                {
+                    command.Connection = connection;
+                    command.CommandText = "select id from login where usuario=@usuario and senha=@senha";
+                    command.Parameters.Add(new SqlParameter("@usuario", System.Data.SqlDbType.VarChar)).Value = loginR.Usuario;
+                    command.Parameters.Add(new SqlParameter("@senha", System.Data.SqlDbType.VarChar)).Value = loginR.Senha;
+
+                    SqlDataReader dr = command.ExecuteReader();
+                    if (dr.Read())
+                    {
+                        login.Id = (int)dr["id"];
+                    }
+                }
+            }
+
+            return login;
+        }
+
         public void add(Models.Login login)
         {
             using (SqlConnection connection = new SqlConnection(this.connectionString))
