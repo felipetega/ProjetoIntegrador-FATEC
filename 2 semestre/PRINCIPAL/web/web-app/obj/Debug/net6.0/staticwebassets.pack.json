@@ -1,343 +1,343 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\web-app.bundle.scp.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\web-app.bundle.scp.css",
       "PackagePath": "staticwebassets\\web-app.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Carousel\\logo.png",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Carousel\\logo.png",
       "PackagePath": "staticwebassets\\imgs\\Carousel\\logo.png"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Postagem\\Festa.jpg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Postagem\\Festa.jpg",
       "PackagePath": "staticwebassets\\imgs\\Postagem\\Festa.jpg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Postagem\\X-Tudo.jpg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Postagem\\X-Tudo.jpg",
       "PackagePath": "staticwebassets\\imgs\\Postagem\\X-Tudo.jpg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Postagem\\lanche-la-em-casa.jpg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Postagem\\lanche-la-em-casa.jpg",
       "PackagePath": "staticwebassets\\imgs\\Postagem\\lanche-la-em-casa.jpg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Produto\\CachorroQuente.jpg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Produto\\CachorroQuente.jpg",
       "PackagePath": "staticwebassets\\imgs\\Produto\\CachorroQuente.jpg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Produto\\X-Costela.jpg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Produto\\X-Costela.jpg",
       "PackagePath": "staticwebassets\\imgs\\Produto\\X-Costela.jpg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Produto\\X-Frango.jpg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Produto\\X-Frango.jpg",
       "PackagePath": "staticwebassets\\imgs\\Produto\\X-Frango.jpg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Produto\\X-Tudo.jpg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\Produto\\X-Tudo.jpg",
       "PackagePath": "staticwebassets\\imgs\\Produto\\X-Tudo.jpg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\AdicionarPostagem.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\AdicionarPostagem.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\AdicionarPostagem.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\Home.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\Home.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\Home.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\camera.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\camera.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\camera.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\cart.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\cart.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\cart.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\chat-dots.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\chat-dots.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\chat-dots.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\facebook.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\facebook.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\facebook.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\gear.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\gear.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\gear.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\github.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\github.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\github.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\google.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\google.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\google.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\house.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\house.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\house.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\imagemUpload.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\imagemUpload.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\imagemUpload.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\like.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\like.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\like.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\login.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\login.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\login.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\logo.png",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\logo.png",
       "PackagePath": "staticwebassets\\imgs\\icons\\logo.png"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\shop.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\shop.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\shop.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\twitter.svg",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\imgs\\icons\\twitter.svg",
       "PackagePath": "staticwebassets\\imgs\\icons\\twitter.svg"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\2971392221022\\Desktop\\1306\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\ProjetoSemestre2\\ProjetoIntegrador-FATEC\\2 semestre\\PRINCIPAL\\web\\web-app\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

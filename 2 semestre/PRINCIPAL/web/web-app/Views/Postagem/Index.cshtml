@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<web_app.Models.Postagem>
 
 <p>
-    <a asp-action="Create"><button>Nova Postagem</button></a>
+    <a asp-action="Create"><input type="submit" value="Nova Postagem" class=" btn btn-primary"></a>
 </p>
 <div class="container">
     <div class="container-fluid">
@@ -35,8 +35,7 @@
             </div>
             @* @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }," ?|||| ")
         ;*@
-            @Html.ActionLink("Excluir", "Delete", new { id = item.Id })<button>Excluir</button>
-            ;
+            @Html.ActionLink("Excluir", "Delete", new { id = item.Id }, new {@class="btn btn-primary"});
         }
     </div>
 </div>
