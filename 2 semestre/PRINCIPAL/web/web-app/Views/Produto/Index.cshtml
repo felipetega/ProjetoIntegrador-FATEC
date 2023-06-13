@@ -59,9 +59,12 @@
                     <div class="card-text fw-bold">
                         <p>R$ @Html.DisplayFor(modelItem => item.Preco)</p>
                     </div>
-                    <button type="button" class="btn-outline-danger">
-                        <img src="~/imgs/icons/cart.svg"/>
-                    </button>
+                    @if (ViewBag.id != 1)
+                    {
+                        <button type="button" class="btn-outline-danger">
+                            <img src="~/imgs/icons/cart.svg"/>
+                        </button>
+                    }
                 </div>
                 @if (ViewBag.id == 1){
                 <button>@Html.ActionLink("Editar", "Edit", new {id=item.Id}, new {style = "text-decoration: none"})</button>
