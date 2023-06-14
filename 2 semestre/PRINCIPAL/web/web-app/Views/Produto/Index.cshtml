@@ -47,7 +47,7 @@
         {
             <div class="col">
                 <div class="card text-center bg-light">
-                    <img src="~/imgs/Produto/@item.urlImagem" alt="@item.Nome" class="card-img" style="width:auto; height:auto;;" />
+                    <img src="~/imgs/Produto/@item.urlImagem" alt="@item.Nome" class="card-img" style="width:298px; height:250px;;" />
                     <div class="card-body">
                         <h5 class="card-title fw-bold">
                             @Html.DisplayFor(modelItem => item.Nome)
@@ -67,8 +67,8 @@
                     }
                 </div>
                 @if (ViewBag.id == 1){
-                    @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new {@class="btn btn-primary"});
-                    @Html.ActionLink("Excluir", "Delete", new { id = item.Id }, new {@class="btn btn-primary"});
+                    @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new {@class="btn btn-primary m-2"});
+                    @Html.ActionLink("Excluir", "Delete", new { id = item.Id }, new {@class="btn btn-primary m-2"});
                 }
             </div>
         }

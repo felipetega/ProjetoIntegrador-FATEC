@@ -7,7 +7,7 @@
     <div class="container-fluid">
         @foreach (var item in Model)
         {
-            <div class="card text-center bg-light mb-5">
+            <div class="card text-center bg-light mb-2">
                 <div class="row">
                     <div class="col">
                         <h5 class="card-title fw-bold">
@@ -35,7 +35,8 @@
             </div>
             @* @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }," ?|||| ")
         ;*@
-            @Html.ActionLink("Excluir", "Delete", new { id = item.Id }, new {@class="btn btn-primary"});
+            @Html.ActionLink("Excluir", "Delete", new { id = item.Id }, new {@class="btn btn-primary mb-4"})
+            ;
         }
     </div>
 </div>
