@@ -17,43 +17,43 @@
     
 </head>
 <body>
-    <div class="container d-flex align-items-center justify-content-around " >
-        <hr />
-        <img src="~/imgs/Carousel/logo.png" style="width:800px;"/>    
-        <div class="p-3">
-            <form asp-action="Login" class="needs-validation" novalidate>
-                <div asp-validation-summary="ModelOnly" class="text-danger" ></div>
-                    <div class="form-group" style="width:300px;">
-                        <label asp-for="Usuario" class="control-label">Email</label>
-                        <input asp-for="Usuario" class="form-control" required />
-                        <div class="valid-feedback">
-                            Parece bom!
+    <div class="container d-flex align-items-center justify-content-evenly mt-5 login">
+           <hr />
+            <img src="~/imgs/Carousel/logo.png"/>    
+            <div class="p-5">
+                <form asp-action="Login" class="needs-validation" novalidate>
+                    <div asp-validation-summary="ModelOnly" class="text-danger" ></div>
+                        <div class="form-group" style="width:300px;">
+                            <label asp-for="Usuario" class="control-label">Email</label>
+                            <input asp-for="Usuario" class="form-control" required />
+                            <div class="valid-feedback">
+                                Parece bom!
+                            </div>
+                            <div class="invalid-feedback">
+                               Por favor entre com um nome de usuario valido!
+                            </div>
+                            <span asp-validation-for="Usuario" class="text-danger"></span>
                         </div>
-                        <div class="invalid-feedback">
-                           Por favor entre com um nome de usuario valido!
+                        <div class="form-group" style="width:300px;">
+                            <label asp-for="Senha" class="control-label"></label>
+                            @*<input type="password" id="senha" class="form-control" required />*@
+                            <input asp-for="Senha" class="form-control" id="senha" required />
+                        <input type="checkbox" onclick="mostrarOcultarSenha()" /> Ocultar senha
+                            <div class="valid-feedback">
+                                Parece bom!
+                            </div>
+                            <div class="invalid-feedback">
+                                Por favor, entre com uma senha valida!
+                            </div>
+                            <span asp-validation-for="Senha" class="text-danger"></span>
                         </div>
-                        <span asp-validation-for="Usuario" class="text-danger"></span>
-                    </div>
-                    <div class="form-group">
-                        <label asp-for="Senha" class="control-label"></label>
-                        @*<input type="password" id="senha" class="form-control" required />*@
-                        <input asp-for="Senha" class="form-control" id="senha" required />
-                    <input type="checkbox" onclick="mostrarOcultarSenha()" /> Ocultar senha?
-                        <div class="valid-feedback">
-                            Parece bom!
+                        <div class="form-group mt-3 ">
+                        <input type="submit" value="Logar" class="btn btn-primary m-2" style="width:110px;" />
+                        <a class="btn btn-primary m-2" style="width:110px;" asp-area="" asp-controller="Login" asp-action="Create">Criar Conta</a>
                         </div>
-                        <div class="invalid-feedback">
-                            Por favor, entre com uma senha valida!
-                        </div>
-                        <span asp-validation-for="Senha" class="text-danger"></span>
-                    </div>
-                    <div class="form-group mt-3 ">
-                    <input type="submit" value="Logar" class="btn btn-primary m-2" style="width:110px;" />
-                    <a class="btn btn-primary m-2" style="width:110px;" asp-area="" asp-controller="Login" asp-action="Create">Criar Conta</a>
-                    </div>
             
-            </form>
-        </div>
+                </form>
+            </div>
        @* <div class="mt-3">
             <a class="btn btn-primary" asp-area="" asp-controller="Login" asp-action="Create">Criar conta</a>
         </div>*@

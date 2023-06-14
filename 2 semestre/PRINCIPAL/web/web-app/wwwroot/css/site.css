@@ -45,12 +45,17 @@ body div ul li {
     width: 350px;
     margin: auto;
     margin-top: 10%;
-    padding: 8px;
+    padding: 25px;
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
     background-color: rgba(112, 112, 112, 0.1);
     border-radius: 20px;
     border: 1px solid rgb(145, 144, 144);
     border-radius: 20px;
-    padding-right: 5%;
+ }
+
+@media (max-width: 827px) {
+    .login > img {
+        width:400px;
+    }
 }
